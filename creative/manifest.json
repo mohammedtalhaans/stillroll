@@ -1,0 +1,2676 @@
+[
+  {
+    "id": "washi",
+    "name": "Washi tape",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "tape",
+      "scrapbook"
+    ],
+    "src": "./creative/washi.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "torn-tape",
+    "name": "Ripped paper tape",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "tape",
+      "torn"
+    ],
+    "src": "./creative/torn-tape.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "notebook-page",
+    "name": "Notebook leaf",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "school",
+      "lined"
+    ],
+    "src": "./creative/notebook-page.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "grid-paper",
+    "name": "Graph paper",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "school",
+      "grid"
+    ],
+    "src": "./creative/grid-paper.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "folded-note",
+    "name": "Folded sticky note",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "note"
+    ],
+    "src": "./creative/folded-note.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "kraft-label",
+    "name": "Kraft tag",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "label"
+    ],
+    "src": "./creative/kraft-label.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "deckle-sheet",
+    "name": "Deckled paper",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "torn",
+      "frame"
+    ],
+    "src": "./creative/deckle-sheet.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "postage-frame",
+    "name": "Perforated stamp frame",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "postage",
+      "frame"
+    ],
+    "src": "./creative/postage-frame.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "filmstrip",
+    "name": "35mm film strip",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "film",
+      "frame"
+    ],
+    "src": "./creative/filmstrip.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "polaroid",
+    "name": "Instant frame",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "instant",
+      "frame"
+    ],
+    "src": "./creative/polaroid.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "receipt",
+    "name": "Cafe receipt",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "food",
+      "receipt"
+    ],
+    "src": "./creative/receipt.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "envelope-window",
+    "name": "Window envelope",
+    "collection": "Paper",
+    "tags": [
+      "paper",
+      "mail",
+      "letter"
+    ],
+    "src": "./creative/envelope-window.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "underline",
+    "name": "Loose underline",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "scribble",
+      "underline"
+    ],
+    "src": "./creative/underline.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "swoop-arrow",
+    "name": "Swooping arrow",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "arrow"
+    ],
+    "src": "./creative/swoop-arrow.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "loop-arrow",
+    "name": "Looping arrow",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "arrow"
+    ],
+    "src": "./creative/loop-arrow.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "double-circle",
+    "name": "Hand-circled",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "circle",
+      "scribble"
+    ],
+    "src": "./creative/double-circle.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "starburst",
+    "name": "Editorial burst",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "star"
+    ],
+    "src": "./creative/starburst.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "sparkle-cluster",
+    "name": "Little glints",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "sparkle",
+      "stars"
+    ],
+    "src": "./creative/sparkle-cluster.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "zigzag",
+    "name": "Zigzag stitch",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "stitch"
+    ],
+    "src": "./creative/zigzag.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "waves",
+    "name": "Three little waves",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "sea"
+    ],
+    "src": "./creative/waves.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "crosshatch",
+    "name": "Pencil hatch",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "pencil",
+      "scribble"
+    ],
+    "src": "./creative/crosshatch.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "checked",
+    "name": "Checked by hand",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "check"
+    ],
+    "src": "./creative/checked.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "asterisk",
+    "name": "Handmade asterisk",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "star"
+    ],
+    "src": "./creative/asterisk.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "speech",
+    "name": "A small thought",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "speech",
+      "note"
+    ],
+    "src": "./creative/speech.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "plane-route",
+    "name": "A little detour",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "plane",
+      "route"
+    ],
+    "src": "./creative/plane-route.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "compass",
+    "name": "Compass rose",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "compass"
+    ],
+    "src": "./creative/compass.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "map-pin",
+    "name": "Somewhere here",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "pin"
+    ],
+    "src": "./creative/map-pin.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "folded-map",
+    "name": "Unfold the weekend",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "map"
+    ],
+    "src": "./creative/folded-map.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "luggage",
+    "name": "Weekend case",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "suitcase"
+    ],
+    "src": "./creative/luggage.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "passport-stamp",
+    "name": "Arrival stamp",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "postage",
+      "stamp"
+    ],
+    "src": "./creative/passport-stamp.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "palm",
+    "name": "Palm study",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "coastal",
+      "tree"
+    ],
+    "src": "./creative/palm.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "shell",
+    "name": "Seashell keepsake",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "coast",
+      "shell"
+    ],
+    "src": "./creative/shell.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "parasol",
+    "name": "Beach umbrella",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "beach",
+      "summer"
+    ],
+    "src": "./creative/parasol.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "citrus",
+    "name": "A slice of summer",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "fruit",
+      "lemon"
+    ],
+    "src": "./creative/citrus.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "sailboat",
+    "name": "Offshore",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "sail",
+      "sea"
+    ],
+    "src": "./creative/sailboat.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "horizon-sun",
+    "name": "Endless summer",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "sun",
+      "sunset"
+    ],
+    "src": "./creative/horizon-sun.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "tent",
+    "name": "A place outside",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "camping"
+    ],
+    "src": "./creative/tent.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "lantern",
+    "name": "Camp lantern",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "camping",
+      "light"
+    ],
+    "src": "./creative/lantern.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "campfire",
+    "name": "Around the fire",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "camping",
+      "fire"
+    ],
+    "src": "./creative/campfire.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "mountain-ridge",
+    "name": "Mountain lines",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "hiking",
+      "mountains"
+    ],
+    "src": "./creative/mountain-ridge.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "topography",
+    "name": "Contour study",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "topographic",
+      "terrain"
+    ],
+    "src": "./creative/topography.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "pine-branch",
+    "name": "Pine sprig",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "botanical",
+      "pine"
+    ],
+    "src": "./creative/pine-branch.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "fern",
+    "name": "Fern study",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "botanical",
+      "leaf"
+    ],
+    "src": "./creative/fern.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "wildflower",
+    "name": "A wild little thing",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "flower",
+      "botanical"
+    ],
+    "src": "./creative/wildflower.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "mushroom",
+    "name": "Forest floor",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "fungi"
+    ],
+    "src": "./creative/mushroom.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "acorn",
+    "name": "Acorn keepsake",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "seed"
+    ],
+    "src": "./creative/acorn.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "leaf",
+    "name": "Pressed leaf",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "botanical"
+    ],
+    "src": "./creative/leaf.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "crescent",
+    "name": "Quiet moon",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "night",
+      "moon"
+    ],
+    "src": "./creative/crescent.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "skis",
+    "name": "First tracks",
+    "collection": "Alpine",
+    "tags": [
+      "alpine",
+      "ski",
+      "winter"
+    ],
+    "src": "./creative/skis.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "snowboard",
+    "name": "Sideways club",
+    "collection": "Alpine",
+    "tags": [
+      "alpine",
+      "snow"
+    ],
+    "src": "./creative/snowboard.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "goggles",
+    "name": "Alpine goggles",
+    "collection": "Alpine",
+    "tags": [
+      "alpine",
+      "snow",
+      "winter"
+    ],
+    "src": "./creative/goggles.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "snowflake",
+    "name": "Six-point snow",
+    "collection": "Alpine",
+    "tags": [
+      "alpine",
+      "snow"
+    ],
+    "src": "./creative/snowflake.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "chairlift",
+    "name": "One more run",
+    "collection": "Alpine",
+    "tags": [
+      "alpine",
+      "ski",
+      "lift"
+    ],
+    "src": "./creative/chairlift.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "ski-pass",
+    "name": "Lift ticket",
+    "collection": "Alpine",
+    "tags": [
+      "alpine",
+      "ski",
+      "ticket"
+    ],
+    "src": "./creative/ski-pass.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "winter-pine",
+    "name": "Snow on the branches",
+    "collection": "Alpine",
+    "tags": [
+      "alpine",
+      "pine",
+      "winter"
+    ],
+    "src": "./creative/winter-pine.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "alpine-badge",
+    "name": "Summit badge",
+    "collection": "Alpine",
+    "tags": [
+      "alpine",
+      "badge",
+      "mountain"
+    ],
+    "src": "./creative/alpine-badge.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "grad-cap",
+    "name": "The next chapter",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "graduation",
+      "cap"
+    ],
+    "src": "./creative/grad-cap.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "diploma",
+    "name": "Rolled-up dreams",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "graduation"
+    ],
+    "src": "./creative/diploma.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "paperclip",
+    "name": "Paperclip",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "clip",
+      "stationery"
+    ],
+    "src": "./creative/paperclip.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "binder-clip",
+    "name": "Binder clip",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "stationery"
+    ],
+    "src": "./creative/binder-clip.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "notebook",
+    "name": "Notes to self",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "study",
+      "school"
+    ],
+    "src": "./creative/notebook.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "pencil",
+    "name": "Well-used pencil",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "stationery"
+    ],
+    "src": "./creative/pencil.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "ruler",
+    "name": "Pocket ruler",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "stationery"
+    ],
+    "src": "./creative/ruler.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "beaker",
+    "name": "Curiosity club",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "lab",
+      "school"
+    ],
+    "src": "./creative/beaker.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "atom",
+    "name": "Curiosity in motion",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "science"
+    ],
+    "src": "./creative/atom.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "book-stack",
+    "name": "One more chapter",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "books"
+    ],
+    "src": "./creative/book-stack.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "paper-plane",
+    "name": "Pass this note",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "paper",
+      "plane"
+    ],
+    "src": "./creative/paper-plane.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "pennant",
+    "name": "Class pennant",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "school",
+      "varsity"
+    ],
+    "src": "./creative/pennant.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "latte",
+    "name": "Latte love",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "coffee",
+      "cup"
+    ],
+    "src": "./creative/latte.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "espresso",
+    "name": "Double espresso",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "coffee"
+    ],
+    "src": "./creative/espresso.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "croissant",
+    "name": "Still warm",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "pastry",
+      "food"
+    ],
+    "src": "./creative/croissant.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "takeaway",
+    "name": "Coffee to go",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "coffee",
+      "cup"
+    ],
+    "src": "./creative/takeaway.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "matcha-whisk",
+    "name": "Matcha ritual",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "tea",
+      "matcha"
+    ],
+    "src": "./creative/matcha-whisk.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "moka-pot",
+    "name": "Moka morning",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "coffee"
+    ],
+    "src": "./creative/moka-pot.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "coffee-beans",
+    "name": "Roasted little things",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "coffee",
+      "beans"
+    ],
+    "src": "./creative/coffee-beans.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "cutlery",
+    "name": "At the table",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "food",
+      "dinner"
+    ],
+    "src": "./creative/cutlery.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "cherries",
+    "name": "Cherry on top",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "fruit",
+      "cherry"
+    ],
+    "src": "./creative/cherries.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "strawberry",
+    "name": "Strawberry season",
+    "collection": "Cafe",
+    "tags": [
+      "cafe",
+      "fruit"
+    ],
+    "src": "./creative/strawberry.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "bow",
+    "name": "Ribbon bow",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "ribbon",
+      "wedding"
+    ],
+    "src": "./creative/bow.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "silk-bow",
+    "name": "A ribbon, loosely tied",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "bow"
+    ],
+    "src": "./creative/silk-bow.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "intertwined-hearts",
+    "name": "Better together",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "hearts",
+      "couple"
+    ],
+    "src": "./creative/intertwined-hearts.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "heart-outline",
+    "name": "One good heart",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "heart"
+    ],
+    "src": "./creative/heart-outline.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "rose",
+    "name": "Pressed rose",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "flower"
+    ],
+    "src": "./creative/rose.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "bouquet",
+    "name": "A handful of flowers",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "flowers",
+      "wedding"
+    ],
+    "src": "./creative/bouquet.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "wedding-rings",
+    "name": "Linked rings",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "couples",
+      "wedding"
+    ],
+    "src": "./creative/wedding-rings.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "wax-seal",
+    "name": "Pressed wax seal",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "stamp",
+      "wax"
+    ],
+    "src": "./creative/wax-seal.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "love-letter",
+    "name": "A note for you",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "letter"
+    ],
+    "src": "./creative/love-letter.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "champagne",
+    "name": "A little toast",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "celebration"
+    ],
+    "src": "./creative/champagne.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "cake",
+    "name": "Make a wish",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "birthday"
+    ],
+    "src": "./creative/cake.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "candle",
+    "name": "Evening ritual",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "candle"
+    ],
+    "src": "./creative/candle.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "confetti",
+    "name": "Small celebration",
+    "collection": "Love",
+    "tags": [
+      "love",
+      "party"
+    ],
+    "src": "./creative/confetti.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "cassette",
+    "name": "Mixtape memory",
+    "collection": "Music",
+    "tags": [
+      "music",
+      "mixtape",
+      "cassette"
+    ],
+    "src": "./creative/cassette.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "vinyl",
+    "name": "Side A",
+    "collection": "Music",
+    "tags": [
+      "music",
+      "record",
+      "vinyl"
+    ],
+    "src": "./creative/vinyl.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "turntable",
+    "name": "A record afternoon",
+    "collection": "Music",
+    "tags": [
+      "music",
+      "record",
+      "music"
+    ],
+    "src": "./creative/turntable.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "equalizer",
+    "name": "Sound in colour",
+    "collection": "Music",
+    "tags": [
+      "music",
+      "sound"
+    ],
+    "src": "./creative/equalizer.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "headphones",
+    "name": "In your own world",
+    "collection": "Music",
+    "tags": [
+      "music",
+      "music"
+    ],
+    "src": "./creative/headphones.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "soundwave",
+    "name": "A little louder",
+    "collection": "Music",
+    "tags": [
+      "music",
+      "audio",
+      "wave"
+    ],
+    "src": "./creative/soundwave.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "concert-ticket",
+    "name": "Admit one",
+    "collection": "Music",
+    "tags": [
+      "music",
+      "ticket",
+      "show"
+    ],
+    "src": "./creative/concert-ticket.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "clapper",
+    "name": "Scene one",
+    "collection": "Cinema",
+    "tags": [
+      "cinema",
+      "film"
+    ],
+    "src": "./creative/clapper.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "film-leader",
+    "name": "Countdown frame",
+    "collection": "Cinema",
+    "tags": [
+      "cinema",
+      "countdown"
+    ],
+    "src": "./creative/film-leader.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "cinema-caption",
+    "name": "Cinematic caption",
+    "collection": "Cinema",
+    "tags": [
+      "cinema",
+      "subtitle"
+    ],
+    "src": "./creative/cinema-caption.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "guitar",
+    "name": "Acoustic afternoon",
+    "collection": "Music",
+    "tags": [
+      "music",
+      "music",
+      "guitar"
+    ],
+    "src": "./creative/guitar.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "microphone",
+    "name": "One more song",
+    "collection": "Music",
+    "tags": [
+      "music",
+      "music",
+      "mic"
+    ],
+    "src": "./creative/microphone.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "portal",
+    "name": "Interdimensional aperture",
+    "collection": "Portal theory",
+    "tags": [
+      "portal theory",
+      "cosmic",
+      "rick",
+      "morty",
+      "unofficial"
+    ],
+    "src": "./creative/portal.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "planet",
+    "name": "Some other world",
+    "collection": "Portal theory",
+    "tags": [
+      "portal theory",
+      "space"
+    ],
+    "src": "./creative/planet.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "orbits",
+    "name": "Orbital daydream",
+    "collection": "Portal theory",
+    "tags": [
+      "portal theory",
+      "space",
+      "orbit"
+    ],
+    "src": "./creative/orbits.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "ufo",
+    "name": "Unscheduled arrival",
+    "collection": "Portal theory",
+    "tags": [
+      "portal theory",
+      "science",
+      "fiction"
+    ],
+    "src": "./creative/ufo.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "ray-blaster",
+    "name": "Pocket sci-fi",
+    "collection": "Portal theory",
+    "tags": [
+      "portal theory",
+      "sci-fi",
+      "original"
+    ],
+    "src": "./creative/ray-blaster.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "lab-flask",
+    "name": "Volatile ideas",
+    "collection": "Desert chemistry",
+    "tags": [
+      "desert chemistry",
+      "lab",
+      "breaking",
+      "bad",
+      "unofficial"
+    ],
+    "src": "./creative/lab-flask.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "hazard-diamond",
+    "name": "Laboratory caution",
+    "collection": "Desert chemistry",
+    "tags": [
+      "desert chemistry",
+      "caution"
+    ],
+    "src": "./creative/hazard-diamond.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "periodic-cell",
+    "name": "Element of surprise",
+    "collection": "Desert chemistry",
+    "tags": [
+      "desert chemistry",
+      "periodic",
+      "chemistry"
+    ],
+    "src": "./creative/periodic-cell.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "vapor",
+    "name": "Unsettling atmosphere",
+    "collection": "Desert chemistry",
+    "tags": [
+      "desert chemistry",
+      "smoke"
+    ],
+    "src": "./creative/vapor.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "crystal",
+    "name": "Angular mineral study",
+    "collection": "Desert chemistry",
+    "tags": [
+      "desert chemistry",
+      "mineral"
+    ],
+    "src": "./creative/crystal.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "racing-stripe",
+    "name": "Racing stripe",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "racing"
+    ],
+    "src": "./creative/racing-stripe.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "checkered-flag",
+    "name": "Finish line",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "racing",
+      "flag"
+    ],
+    "src": "./creative/checkered-flag.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "speedometer",
+    "name": "Beyond the ordinary",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "car",
+      "speed"
+    ],
+    "src": "./creative/speedometer.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "wheel",
+    "name": "Steel wheel",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "car",
+      "wheel"
+    ],
+    "src": "./creative/wheel.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "car-silhouette",
+    "name": "Long way home",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "car",
+      "road",
+      "trip"
+    ],
+    "src": "./creative/car-silhouette.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "sneaker",
+    "name": "Off-duty essential",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "shoe",
+      "fashion",
+      "sport"
+    ],
+    "src": "./creative/sneaker.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "sunglasses",
+    "name": "Sun on your face",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "summer",
+      "fashion"
+    ],
+    "src": "./creative/sunglasses.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "hang-tag",
+    "name": "The considered edit",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "product",
+      "label"
+    ],
+    "src": "./creative/hang-tag.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "lightning",
+    "name": "A little energy",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "bolt",
+      "sport"
+    ],
+    "src": "./creative/lightning.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "chain-link",
+    "name": "Linked up",
+    "collection": "Street",
+    "tags": [
+      "street",
+      "fashion",
+      "chain"
+    ],
+    "src": "./creative/chain-link.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "calendar-page",
+    "name": "A month of little things",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "month",
+      "recap"
+    ],
+    "src": "./creative/calendar-page.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "daisy",
+    "name": "Little sunshine",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "flower"
+    ],
+    "src": "./creative/daisy.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "smile-stamp",
+    "name": "Good little day",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "happy",
+      "stamp"
+    ],
+    "src": "./creative/smile-stamp.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "alarm-clock",
+    "name": "No alarm today",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "morning",
+      "clock"
+    ],
+    "src": "./creative/alarm-clock.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "matchbox",
+    "name": "A tiny keepsake",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "matchbox"
+    ],
+    "src": "./creative/matchbox.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "bread",
+    "name": "Bread for two",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "food",
+      "morning"
+    ],
+    "src": "./creative/bread.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "butterfly",
+    "name": "A passing moment",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "nature",
+      "butterfly"
+    ],
+    "src": "./creative/butterfly.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "streetlamp",
+    "name": "Under the streetlight",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "night",
+      "city"
+    ],
+    "src": "./creative/streetlamp.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "window",
+    "name": "Light in the window",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "home"
+    ],
+    "src": "./creative/window.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "laundry-line",
+    "name": "Sunday laundry",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "slow",
+      "home"
+    ],
+    "src": "./creative/laundry-line.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "sale-ticket",
+    "name": "Product ticket",
+    "collection": "Editorial",
+    "tags": [
+      "editorial",
+      "business",
+      "ticket"
+    ],
+    "src": "./creative/sale-ticket.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "barcode",
+    "name": "Archive barcode",
+    "collection": "Editorial",
+    "tags": [
+      "editorial",
+      "archive",
+      "product"
+    ],
+    "src": "./creative/barcode.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "price-label",
+    "name": "Price label",
+    "collection": "Editorial",
+    "tags": [
+      "editorial",
+      "product",
+      "tag"
+    ],
+    "src": "./creative/price-label.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "seal-emblem",
+    "name": "Quality seal",
+    "collection": "Editorial",
+    "tags": [
+      "editorial",
+      "business",
+      "seal"
+    ],
+    "src": "./creative/seal-emblem.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "arch-frame",
+    "name": "Quiet arch",
+    "collection": "Editorial",
+    "tags": [
+      "editorial",
+      "frame"
+    ],
+    "src": "./creative/arch-frame.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "oval-frame",
+    "name": "Gallery oval",
+    "collection": "Editorial",
+    "tags": [
+      "editorial",
+      "frame"
+    ],
+    "src": "./creative/oval-frame.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "deco-corner",
+    "name": "Art deco corners",
+    "collection": "Editorial",
+    "tags": [
+      "editorial",
+      "frame",
+      "deco"
+    ],
+    "src": "./creative/deco-corner.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "bracket",
+    "name": "Margin notes",
+    "collection": "Editorial",
+    "tags": [
+      "editorial",
+      "frame",
+      "type"
+    ],
+    "src": "./creative/bracket.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "scallop",
+    "name": "Scalloped label",
+    "collection": "Frames",
+    "tags": [
+      "frames",
+      "frame",
+      "label"
+    ],
+    "src": "./creative/scallop.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "ribbon-banner",
+    "name": "Keepsake banner",
+    "collection": "Frames",
+    "tags": [
+      "frames",
+      "ribbon",
+      "label"
+    ],
+    "src": "./creative/ribbon-banner.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "laurel",
+    "name": "A small victory",
+    "collection": "Frames",
+    "tags": [
+      "frames",
+      "celebration",
+      "laurel"
+    ],
+    "src": "./creative/laurel.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "floral-corner",
+    "name": "Botanical corner",
+    "collection": "Frames",
+    "tags": [
+      "frames",
+      "flower",
+      "frame"
+    ],
+    "src": "./creative/floral-corner.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "rain-cloud",
+    "name": "A rainy little day",
+    "collection": "Nature",
+    "tags": [
+      "nature",
+      "rain",
+      "weather"
+    ],
+    "src": "./creative/rain-cloud.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "sunburst-lines",
+    "name": "Sun lines",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "sun"
+    ],
+    "src": "./creative/sunburst-lines.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "tennis",
+    "name": "Sunday tennis",
+    "collection": "Sports",
+    "tags": [
+      "sports",
+      "fitness",
+      "tennis"
+    ],
+    "src": "./creative/tennis.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "basketball",
+    "name": "After-school court",
+    "collection": "Sports",
+    "tags": [
+      "sports",
+      "sport",
+      "basketball"
+    ],
+    "src": "./creative/basketball.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "dumbbell",
+    "name": "A little stronger",
+    "collection": "Sports",
+    "tags": [
+      "sports",
+      "fitness"
+    ],
+    "src": "./creative/dumbbell.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "finish-ribbon",
+    "name": "Personal best",
+    "collection": "Sports",
+    "tags": [
+      "sports",
+      "sport",
+      "race"
+    ],
+    "src": "./creative/finish-ribbon.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "trophy",
+    "name": "Little victories",
+    "collection": "Sports",
+    "tags": [
+      "sports",
+      "award"
+    ],
+    "src": "./creative/trophy.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "diner-sign",
+    "name": "Open late",
+    "collection": "Americana",
+    "tags": [
+      "americana",
+      "lana",
+      "del",
+      "rey",
+      "unofficial",
+      "diner"
+    ],
+    "src": "./creative/diner-sign.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "picket-fence",
+    "name": "Suburban reverie",
+    "collection": "Americana",
+    "tags": [
+      "americana",
+      "americana"
+    ],
+    "src": "./creative/picket-fence.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "heart-locket",
+    "name": "Vintage locket",
+    "collection": "Americana",
+    "tags": [
+      "americana",
+      "romantic",
+      "locket"
+    ],
+    "src": "./creative/heart-locket.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "motel-key",
+    "name": "Room for a memory",
+    "collection": "Americana",
+    "tags": [
+      "americana",
+      "motel",
+      "vintage"
+    ],
+    "src": "./creative/motel-key.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "desert-cactus",
+    "name": "Dry country",
+    "collection": "Desert chemistry",
+    "tags": [
+      "desert chemistry",
+      "desert",
+      "cactus"
+    ],
+    "src": "./creative/desert-cactus.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "desert-sun",
+    "name": "High noon",
+    "collection": "Desert chemistry",
+    "tags": [
+      "desert chemistry",
+      "landscape"
+    ],
+    "src": "./creative/desert-sun.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "digital-rain",
+    "name": "Emerald code",
+    "collection": "Screen dreams",
+    "tags": [
+      "screen dreams",
+      "matrix",
+      "unofficial",
+      "code"
+    ],
+    "src": "./creative/digital-rain.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "hotel-facade",
+    "name": "Symmetry club",
+    "collection": "Screen dreams",
+    "tags": [
+      "screen dreams",
+      "wes",
+      "anderson",
+      "unofficial",
+      "architecture"
+    ],
+    "src": "./creative/hotel-facade.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "forest-spirit",
+    "name": "A friendly forest thought",
+    "collection": "Screen dreams",
+    "tags": [
+      "screen dreams",
+      "ghibli",
+      "inspired",
+      "unofficial",
+      "original",
+      "forest"
+    ],
+    "src": "./creative/forest-spirit.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "kite",
+    "name": "An unhurried day",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "sky"
+    ],
+    "src": "./creative/kite.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "open-book",
+    "name": "Between the pages",
+    "collection": "Campus",
+    "tags": [
+      "campus",
+      "study",
+      "book"
+    ],
+    "src": "./creative/open-book.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "hourglass",
+    "name": "Take your time",
+    "collection": "Everyday",
+    "tags": [
+      "everyday",
+      "time"
+    ],
+    "src": "./creative/hourglass.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "postmark-lines",
+    "name": "Letters from somewhere",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "postage"
+    ],
+    "src": "./creative/postmark-lines.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "arch-window",
+    "name": "Afternoon window",
+    "collection": "Frames",
+    "tags": [
+      "frames",
+      "frame",
+      "window"
+    ],
+    "src": "./creative/arch-window.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "folded-ribbon",
+    "name": "Archive marker",
+    "collection": "Editorial",
+    "tags": [
+      "editorial",
+      "bookmark",
+      "ribbon"
+    ],
+    "src": "./creative/folded-ribbon.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "ticket-stub",
+    "name": "One-way ticket",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "ticket",
+      "transport"
+    ],
+    "src": "./creative/ticket-stub.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "postcard",
+    "name": "Postcard back",
+    "collection": "Travel",
+    "tags": [
+      "travel",
+      "mail"
+    ],
+    "src": "./creative/postcard.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  },
+  {
+    "id": "double-star",
+    "name": "Two little stars",
+    "collection": "Marks",
+    "tags": [
+      "marks",
+      "stars"
+    ],
+    "src": "./creative/double-star.svg",
+    "creator": "Stillroll contributors",
+    "license": "MIT",
+    "original": true,
+    "source": "Original geometry in scripts/generate-assets.py",
+    "modifications": "None"
+  }
+]

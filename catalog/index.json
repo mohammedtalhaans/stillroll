@@ -1,0 +1,4151 @@
+{
+  "version": 2,
+  "entries": [
+    {
+      "id": "atelier-01-a-brighter-chapter",
+      "name": "A Brighter Chapter",
+      "collectionId": "atelier-01-a-brighter-chapter",
+      "collection": "Travel scrapbook",
+      "description": "Rag-paper layers, discontinuous torn windows, architectural ephemera and a seam-crossing coastal story.",
+      "era": "",
+      "aliases": [
+        "Travel scrapbook",
+        "A Brighter Chapter"
+      ],
+      "tags": [
+        "everyday",
+        "travel",
+        "scrapbook"
+      ],
+      "styles": [
+        "Travel scrapbook"
+      ],
+      "moods": [],
+      "occasions": [
+        "Travel"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 4,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e9dfcc",
+        "#48382a",
+        "#a85c3f"
+      ],
+      "cover": "./catalog/previews/atelier-01-a-brighter-chapter/cover.webp",
+      "spread": "./catalog/previews/atelier-01-a-brighter-chapter/spread.webp",
+      "feature": "./catalog/previews/atelier-01-a-brighter-chapter/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-01-a-brighter-chapter/01.webp",
+        "./catalog/previews/atelier-01-a-brighter-chapter/02.webp",
+        "./catalog/previews/atelier-01-a-brighter-chapter/03.webp",
+        "./catalog/previews/atelier-01-a-brighter-chapter/04.webp"
+      ],
+      "pack": "./catalog/atelier/01-a-brighter-chapter/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 99.99
+    },
+    {
+      "id": "atelier-02-moments-forever",
+      "name": "Moments Forever",
+      "collectionId": "atelier-02-moments-forever",
+      "collection": "Analog film",
+      "description": "Ascending strips of distressed negative film, tiny frame codes, adhesive tabs and an archive-card ending.",
+      "era": "",
+      "aliases": [
+        "Analog film",
+        "Moments Forever"
+      ],
+      "tags": [
+        "everyday",
+        "analog",
+        "film"
+      ],
+      "styles": [
+        "Analog film"
+      ],
+      "moods": [],
+      "occasions": [
+        "Analog"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#ece2cf",
+        "#2d261e",
+        "#ad743f"
+      ],
+      "cover": "./catalog/previews/atelier-02-moments-forever/cover.webp",
+      "spread": "./catalog/previews/atelier-02-moments-forever/spread.webp",
+      "feature": "./catalog/previews/atelier-02-moments-forever/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-02-moments-forever/01.webp",
+        "./catalog/previews/atelier-02-moments-forever/02.webp",
+        "./catalog/previews/atelier-02-moments-forever/03.webp",
+        "./catalog/previews/atelier-02-moments-forever/04.webp"
+      ],
+      "pack": "./catalog/atelier/02-moments-forever/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.98
+    },
+    {
+      "id": "atelier-03-the-daily-pause",
+      "name": "The Daily Pause",
+      "collectionId": "atelier-03-the-daily-pause",
+      "collection": "Editorial newspaper",
+      "description": "A tactile newspaper spread with live headlines, real typeset columns, unequal photo wells and quiet registration marks.",
+      "era": "",
+      "aliases": [
+        "Editorial newspaper",
+        "The Daily Pause"
+      ],
+      "tags": [
+        "everyday",
+        "editorial",
+        "newspaper"
+      ],
+      "styles": [
+        "Editorial newspaper"
+      ],
+      "moods": [],
+      "occasions": [
+        "Editorial"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 4,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f0ebdf",
+        "#282722",
+        "#9f5945"
+      ],
+      "cover": "./catalog/previews/atelier-03-the-daily-pause/cover.webp",
+      "spread": "./catalog/previews/atelier-03-the-daily-pause/spread.webp",
+      "feature": "./catalog/previews/atelier-03-the-daily-pause/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-03-the-daily-pause/01.webp",
+        "./catalog/previews/atelier-03-the-daily-pause/02.webp",
+        "./catalog/previews/atelier-03-the-daily-pause/03.webp",
+        "./catalog/previews/atelier-03-the-daily-pause/04.webp"
+      ],
+      "pack": "./catalog/atelier/03-the-daily-pause/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.97
+    },
+    {
+      "id": "atelier-04-coastal-notes",
+      "name": "Coastal Notes",
+      "collectionId": "atelier-04-coastal-notes",
+      "collection": "Coastal scrapbook",
+      "description": "A layered coastal journal with asymmetrical torn photo fields, handwritten observations and a narrow arch insert.",
+      "era": "",
+      "aliases": [
+        "Coastal scrapbook",
+        "Coastal Notes"
+      ],
+      "tags": [
+        "everyday",
+        "coastal",
+        "scrapbook"
+      ],
+      "styles": [
+        "Coastal scrapbook"
+      ],
+      "moods": [],
+      "occasions": [
+        "Coastal"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 5,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#ece4d5",
+        "#3c4039",
+        "#3d7686"
+      ],
+      "cover": "./catalog/previews/atelier-04-coastal-notes/cover.webp",
+      "spread": "./catalog/previews/atelier-04-coastal-notes/spread.webp",
+      "feature": "./catalog/previews/atelier-04-coastal-notes/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-04-coastal-notes/01.webp",
+        "./catalog/previews/atelier-04-coastal-notes/02.webp",
+        "./catalog/previews/atelier-04-coastal-notes/03.webp",
+        "./catalog/previews/atelier-04-coastal-notes/04.webp"
+      ],
+      "pack": "./catalog/atelier/04-coastal-notes/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 99.96
+    },
+    {
+      "id": "atelier-05-after-hours",
+      "name": "After Hours",
+      "collectionId": "atelier-05-after-hours",
+      "collection": "Night photography",
+      "description": "A dark analog archive with gilt rules, battered film edges, high-contrast city windows and small proof prints.",
+      "era": "",
+      "aliases": [
+        "Night photography",
+        "After Hours"
+      ],
+      "tags": [
+        "everyday",
+        "night",
+        "photography"
+      ],
+      "styles": [
+        "Night photography"
+      ],
+      "moods": [],
+      "occasions": [
+        "Night"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 8,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#111918",
+        "#e9d5a5",
+        "#c9a563"
+      ],
+      "cover": "./catalog/previews/atelier-05-after-hours/cover.webp",
+      "spread": "./catalog/previews/atelier-05-after-hours/spread.webp",
+      "feature": "./catalog/previews/atelier-05-after-hours/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-05-after-hours/01.webp",
+        "./catalog/previews/atelier-05-after-hours/02.webp",
+        "./catalog/previews/atelier-05-after-hours/03.webp",
+        "./catalog/previews/atelier-05-after-hours/04.webp"
+      ],
+      "pack": "./catalog/atelier/05-after-hours/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.95
+    },
+    {
+      "id": "atelier-06-far-from-home",
+      "name": "Far From Home",
+      "collectionId": "atelier-06-far-from-home",
+      "collection": "Travel ephemera",
+      "description": "A postcard route assembled from annotated maps, stamps, departure tickets and a torn panoramic letter.",
+      "era": "",
+      "aliases": [
+        "Travel ephemera",
+        "Far From Home"
+      ],
+      "tags": [
+        "everyday",
+        "travel",
+        "ephemera"
+      ],
+      "styles": [
+        "Travel ephemera"
+      ],
+      "moods": [],
+      "occasions": [
+        "Travel"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 5,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e9e1cf",
+        "#3a342b",
+        "#2f6786"
+      ],
+      "cover": "./catalog/previews/atelier-06-far-from-home/cover.webp",
+      "spread": "./catalog/previews/atelier-06-far-from-home/spread.webp",
+      "feature": "./catalog/previews/atelier-06-far-from-home/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-06-far-from-home/01.webp",
+        "./catalog/previews/atelier-06-far-from-home/02.webp",
+        "./catalog/previews/atelier-06-far-from-home/03.webp",
+        "./catalog/previews/atelier-06-far-from-home/04.webp"
+      ],
+      "pack": "./catalog/atelier/06-far-from-home/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.94
+    },
+    {
+      "id": "atelier-07-slow-sunday",
+      "name": "Slow Sunday",
+      "collectionId": "atelier-07-slow-sunday",
+      "collection": "Monochrome instant",
+      "description": "Oversized portraits interrupted by instant prints, soft rag paper, a small ticket and handwritten Sunday notes.",
+      "era": "",
+      "aliases": [
+        "Monochrome instant",
+        "Slow Sunday"
+      ],
+      "tags": [
+        "everyday",
+        "monochrome",
+        "instant"
+      ],
+      "styles": [
+        "Monochrome instant"
+      ],
+      "moods": [],
+      "occasions": [
+        "Monochrome"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 4,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e9e5d9",
+        "#242825",
+        "#b07544"
+      ],
+      "cover": "./catalog/previews/atelier-07-slow-sunday/cover.webp",
+      "spread": "./catalog/previews/atelier-07-slow-sunday/spread.webp",
+      "feature": "./catalog/previews/atelier-07-slow-sunday/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-07-slow-sunday/01.webp",
+        "./catalog/previews/atelier-07-slow-sunday/02.webp",
+        "./catalog/previews/atelier-07-slow-sunday/03.webp",
+        "./catalog/previews/atelier-07-slow-sunday/04.webp"
+      ],
+      "pack": "./catalog/atelier/07-slow-sunday/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.93
+    },
+    {
+      "id": "atelier-08-tokyo-diaries",
+      "name": "Tokyo Diaries",
+      "collectionId": "atelier-08-tokyo-diaries",
+      "collection": "City scrapbook",
+      "description": "Blossom engravings, map fragments, softly pink ticket stock and overlapping urban image windows.",
+      "era": "",
+      "aliases": [
+        "City scrapbook",
+        "Tokyo Diaries"
+      ],
+      "tags": [
+        "everyday",
+        "city",
+        "scrapbook"
+      ],
+      "styles": [
+        "City scrapbook"
+      ],
+      "moods": [],
+      "occasions": [
+        "City"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 4,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e7d9d0",
+        "#353a38",
+        "#b97d73"
+      ],
+      "cover": "./catalog/previews/atelier-08-tokyo-diaries/cover.webp",
+      "spread": "./catalog/previews/atelier-08-tokyo-diaries/spread.webp",
+      "feature": "./catalog/previews/atelier-08-tokyo-diaries/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-08-tokyo-diaries/01.webp",
+        "./catalog/previews/atelier-08-tokyo-diaries/02.webp",
+        "./catalog/previews/atelier-08-tokyo-diaries/03.webp",
+        "./catalog/previews/atelier-08-tokyo-diaries/04.webp"
+      ],
+      "pack": "./catalog/atelier/08-tokyo-diaries/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 99.92
+    },
+    {
+      "id": "atelier-09-love-looks-good",
+      "name": "Love Looks Good",
+      "collectionId": "atelier-09-love-looks-good",
+      "collection": "Wedding analog",
+      "description": "A sweeping diagonal film ribbon, gentle album paper, soft botanical marks and an intimate closing portrait.",
+      "era": "",
+      "aliases": [
+        "Wedding analog",
+        "Love Looks Good"
+      ],
+      "tags": [
+        "everyday",
+        "wedding",
+        "analog"
+      ],
+      "styles": [
+        "Wedding analog"
+      ],
+      "moods": [],
+      "occasions": [
+        "Wedding"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#ece7dc",
+        "#574b3e",
+        "#ac9172"
+      ],
+      "cover": "./catalog/previews/atelier-09-love-looks-good/cover.webp",
+      "spread": "./catalog/previews/atelier-09-love-looks-good/spread.webp",
+      "feature": "./catalog/previews/atelier-09-love-looks-good/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-09-love-looks-good/01.webp",
+        "./catalog/previews/atelier-09-love-looks-good/02.webp",
+        "./catalog/previews/atelier-09-love-looks-good/03.webp",
+        "./catalog/previews/atelier-09-love-looks-good/04.webp"
+      ],
+      "pack": "./catalog/atelier/09-love-looks-good/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.91
+    },
+    {
+      "id": "atelier-10-into-the-wild",
+      "name": "Into the Wild",
+      "collectionId": "atelier-10-into-the-wild",
+      "collection": "Nature journal",
+      "description": "A wide torn landscape, inset trail photographs and detailed pressed-botanical engravings on a field-journal surface.",
+      "era": "",
+      "aliases": [
+        "Nature journal",
+        "Into the Wild"
+      ],
+      "tags": [
+        "everyday",
+        "nature",
+        "journal"
+      ],
+      "styles": [
+        "Nature journal"
+      ],
+      "moods": [],
+      "occasions": [
+        "Nature"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 4,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e7decb",
+        "#384233",
+        "#a2844d"
+      ],
+      "cover": "./catalog/previews/atelier-10-into-the-wild/cover.webp",
+      "spread": "./catalog/previews/atelier-10-into-the-wild/spread.webp",
+      "feature": "./catalog/previews/atelier-10-into-the-wild/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-10-into-the-wild/01.webp",
+        "./catalog/previews/atelier-10-into-the-wild/02.webp",
+        "./catalog/previews/atelier-10-into-the-wild/03.webp",
+        "./catalog/previews/atelier-10-into-the-wild/04.webp"
+      ],
+      "pack": "./catalog/atelier/10-into-the-wild/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 99.9
+    },
+    {
+      "id": "atelier-11-a-collection-of-good-days",
+      "name": "A Collection of Good Days",
+      "collectionId": "atelier-11-a-collection-of-good-days",
+      "collection": "Green memory archive",
+      "description": "Deep green book cloth, thin worn gold borders, wire eyelets and overlapping memory prints joined by a loose cotton thread.",
+      "era": "",
+      "aliases": [
+        "Green memory archive",
+        "A Collection of Good Days"
+      ],
+      "tags": [
+        "everyday",
+        "green",
+        "memory",
+        "archive"
+      ],
+      "styles": [
+        "Green memory archive"
+      ],
+      "moods": [],
+      "occasions": [
+        "Green"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 5,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#133b31",
+        "#dbc695",
+        "#b99a5a"
+      ],
+      "cover": "./catalog/previews/atelier-11-a-collection-of-good-days/cover.webp",
+      "spread": "./catalog/previews/atelier-11-a-collection-of-good-days/spread.webp",
+      "feature": "./catalog/previews/atelier-11-a-collection-of-good-days/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-11-a-collection-of-good-days/01.webp",
+        "./catalog/previews/atelier-11-a-collection-of-good-days/02.webp",
+        "./catalog/previews/atelier-11-a-collection-of-good-days/03.webp",
+        "./catalog/previews/atelier-11-a-collection-of-good-days/04.webp"
+      ],
+      "pack": "./catalog/atelier/11-a-collection-of-good-days/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.89
+    },
+    {
+      "id": "atelier-12-soundtrack",
+      "name": "Soundtrack",
+      "collectionId": "atelier-12-soundtrack",
+      "collection": "Music editorial",
+      "description": "Large grooved vinyl objects, independent label-photo apertures, torn album sleeves and intimate liner-note typography.",
+      "era": "",
+      "aliases": [
+        "Music editorial",
+        "Soundtrack"
+      ],
+      "tags": [
+        "everyday",
+        "music",
+        "editorial"
+      ],
+      "styles": [
+        "Music editorial"
+      ],
+      "moods": [],
+      "occasions": [
+        "Music"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 4,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e6d8c8",
+        "#272a24",
+        "#a95f48"
+      ],
+      "cover": "./catalog/previews/atelier-12-soundtrack/cover.webp",
+      "spread": "./catalog/previews/atelier-12-soundtrack/spread.webp",
+      "feature": "./catalog/previews/atelier-12-soundtrack/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-12-soundtrack/01.webp",
+        "./catalog/previews/atelier-12-soundtrack/02.webp",
+        "./catalog/previews/atelier-12-soundtrack/03.webp",
+        "./catalog/previews/atelier-12-soundtrack/04.webp"
+      ],
+      "pack": "./catalog/atelier/12-soundtrack/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 99.88
+    },
+    {
+      "id": "atelier-13-good-food",
+      "name": "Good Food",
+      "collectionId": "atelier-13-good-food",
+      "collection": "Food journal",
+      "description": "A café-table collage with receipts, gingham scraps, stamped paper, a food-photo essay and an intimate menu-card title.",
+      "era": "",
+      "aliases": [
+        "Food journal",
+        "Good Food"
+      ],
+      "tags": [
+        "everyday",
+        "food",
+        "journal"
+      ],
+      "styles": [
+        "Food journal"
+      ],
+      "moods": [],
+      "occasions": [
+        "Food"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 4,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e2d1b9",
+        "#3e3126",
+        "#9f4533"
+      ],
+      "cover": "./catalog/previews/atelier-13-good-food/cover.webp",
+      "spread": "./catalog/previews/atelier-13-good-food/spread.webp",
+      "feature": "./catalog/previews/atelier-13-good-food/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-13-good-food/01.webp",
+        "./catalog/previews/atelier-13-good-food/02.webp",
+        "./catalog/previews/atelier-13-good-food/03.webp",
+        "./catalog/previews/atelier-13-good-food/04.webp"
+      ],
+      "pack": "./catalog/atelier/13-good-food/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.87
+    },
+    {
+      "id": "atelier-14-places-and-people",
+      "name": "Places and People",
+      "collectionId": "atelier-14-places-and-people",
+      "collection": "Architecture editorial",
+      "description": "Arches, elliptical windows, architectural drawings and warm plaster-coloured paper form a multi-scale editorial sequence.",
+      "era": "",
+      "aliases": [
+        "Architecture editorial",
+        "Places and People"
+      ],
+      "tags": [
+        "everyday",
+        "architecture",
+        "editorial"
+      ],
+      "styles": [
+        "Architecture editorial"
+      ],
+      "moods": [],
+      "occasions": [
+        "Architecture"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 5,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e0c6ab",
+        "#443329",
+        "#a67154"
+      ],
+      "cover": "./catalog/previews/atelier-14-places-and-people/cover.webp",
+      "spread": "./catalog/previews/atelier-14-places-and-people/spread.webp",
+      "feature": "./catalog/previews/atelier-14-places-and-people/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-14-places-and-people/01.webp",
+        "./catalog/previews/atelier-14-places-and-people/02.webp",
+        "./catalog/previews/atelier-14-places-and-people/03.webp",
+        "./catalog/previews/atelier-14-places-and-people/04.webp"
+      ],
+      "pack": "./catalog/atelier/14-places-and-people/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.86
+    },
+    {
+      "id": "atelier-15-memories-exe",
+      "name": "Memories.exe",
+      "collectionId": "atelier-15-memories-exe",
+      "collection": "Digital nostalgia",
+      "description": "A layered generic desktop with bevelled image windows, editable filename bars, selection marks and an archive dialog.",
+      "era": "",
+      "aliases": [
+        "Digital nostalgia",
+        "Memories.exe"
+      ],
+      "tags": [
+        "everyday",
+        "digital",
+        "nostalgia"
+      ],
+      "styles": [
+        "Digital nostalgia"
+      ],
+      "moods": [],
+      "occasions": [
+        "Digital"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#989fb6",
+        "#2e384c",
+        "#526990"
+      ],
+      "cover": "./catalog/previews/atelier-15-memories-exe/cover.webp",
+      "spread": "./catalog/previews/atelier-15-memories-exe/spread.webp",
+      "feature": "./catalog/previews/atelier-15-memories-exe/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-15-memories-exe/01.webp",
+        "./catalog/previews/atelier-15-memories-exe/02.webp",
+        "./catalog/previews/atelier-15-memories-exe/03.webp",
+        "./catalog/previews/atelier-15-memories-exe/04.webp"
+      ],
+      "pack": "./catalog/atelier/15-memories-exe/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 99.85
+    },
+    {
+      "id": "atelier-16-contact-24",
+      "name": "Contact 24",
+      "collectionId": "atelier-16-contact-24",
+      "collection": "Analog proof sheet",
+      "description": "A contact sheet with twelve seam-aware frames, negative markings, grease-pencil selections and live archive notes.",
+      "era": "",
+      "aliases": [
+        "Analog proof sheet",
+        "Contact 24"
+      ],
+      "tags": [
+        "everyday",
+        "analog",
+        "proof",
+        "sheet"
+      ],
+      "styles": [
+        "Analog proof sheet"
+      ],
+      "moods": [],
+      "occasions": [
+        "Analog"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 12,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e5decc",
+        "#32332a",
+        "#a2553e"
+      ],
+      "cover": "./catalog/previews/atelier-16-contact-24/cover.webp",
+      "spread": "./catalog/previews/atelier-16-contact-24/spread.webp",
+      "feature": "./catalog/previews/atelier-16-contact-24/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-16-contact-24/01.webp",
+        "./catalog/previews/atelier-16-contact-24/02.webp",
+        "./catalog/previews/atelier-16-contact-24/03.webp",
+        "./catalog/previews/atelier-16-contact-24/04.webp"
+      ],
+      "pack": "./catalog/atelier/16-contact-24/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.84
+    },
+    {
+      "id": "atelier-17-just-here-now",
+      "name": "Just Here Now",
+      "collectionId": "atelier-17-just-here-now",
+      "collection": "Botanical journal",
+      "description": "A naturalist journal with fine botanical illustrations, paper labels, pinned landscape prints and quiet typographic pauses.",
+      "era": "",
+      "aliases": [
+        "Botanical journal",
+        "Just Here Now"
+      ],
+      "tags": [
+        "everyday",
+        "botanical",
+        "journal"
+      ],
+      "styles": [
+        "Botanical journal"
+      ],
+      "moods": [],
+      "occasions": [
+        "Botanical"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 5,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e5e1cf",
+        "#404c3c",
+        "#7d8656"
+      ],
+      "cover": "./catalog/previews/atelier-17-just-here-now/cover.webp",
+      "spread": "./catalog/previews/atelier-17-just-here-now/spread.webp",
+      "feature": "./catalog/previews/atelier-17-just-here-now/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-17-just-here-now/01.webp",
+        "./catalog/previews/atelier-17-just-here-now/02.webp",
+        "./catalog/previews/atelier-17-just-here-now/03.webp",
+        "./catalog/previews/atelier-17-just-here-now/04.webp"
+      ],
+      "pack": "./catalog/atelier/17-just-here-now/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.83
+    },
+    {
+      "id": "atelier-18-departures",
+      "name": "Departures",
+      "collectionId": "atelier-18-departures",
+      "collection": "Passport journal",
+      "description": "Worn passport pages, dense cancellation marks, boarding stubs, a seam-crossing city image and a small aircraft illustration.",
+      "era": "",
+      "aliases": [
+        "Passport journal",
+        "Departures"
+      ],
+      "tags": [
+        "everyday",
+        "passport",
+        "journal"
+      ],
+      "styles": [
+        "Passport journal"
+      ],
+      "moods": [],
+      "occasions": [
+        "Passport"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 4,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e5dec9",
+        "#373d37",
+        "#4a7190"
+      ],
+      "cover": "./catalog/previews/atelier-18-departures/cover.webp",
+      "spread": "./catalog/previews/atelier-18-departures/spread.webp",
+      "feature": "./catalog/previews/atelier-18-departures/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-18-departures/01.webp",
+        "./catalog/previews/atelier-18-departures/02.webp",
+        "./catalog/previews/atelier-18-departures/03.webp",
+        "./catalog/previews/atelier-18-departures/04.webp"
+      ],
+      "pack": "./catalog/atelier/18-departures/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.82
+    },
+    {
+      "id": "atelier-19-the-bigger-picture",
+      "name": "The Bigger Picture",
+      "collectionId": "atelier-19-the-bigger-picture",
+      "collection": "Newsprint montage",
+      "description": "A dense photographic broadsheet with a two-part live masthead, misaligned clipping edges and short readable newspaper columns.",
+      "era": "",
+      "aliases": [
+        "Newsprint montage",
+        "The Bigger Picture"
+      ],
+      "tags": [
+        "everyday",
+        "newsprint",
+        "montage"
+      ],
+      "styles": [
+        "Newsprint montage"
+      ],
+      "moods": [],
+      "occasions": [
+        "Newsprint"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e5dece",
+        "#292b25",
+        "#8b6048"
+      ],
+      "cover": "./catalog/previews/atelier-19-the-bigger-picture/cover.webp",
+      "spread": "./catalog/previews/atelier-19-the-bigger-picture/spread.webp",
+      "feature": "./catalog/previews/atelier-19-the-bigger-picture/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-19-the-bigger-picture/01.webp",
+        "./catalog/previews/atelier-19-the-bigger-picture/02.webp",
+        "./catalog/previews/atelier-19-the-bigger-picture/03.webp",
+        "./catalog/previews/atelier-19-the-bigger-picture/04.webp"
+      ],
+      "pack": "./catalog/atelier/19-the-bigger-picture/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.81
+    },
+    {
+      "id": "atelier-20-last-light",
+      "name": "Last Light",
+      "collectionId": "atelier-20-last-light",
+      "collection": "Cinematic landscape",
+      "description": "One continuous sunset scene with independent outline-framed details, camera markings and a removable torn-paper note.",
+      "era": "",
+      "aliases": [
+        "Cinematic landscape",
+        "Last Light"
+      ],
+      "tags": [
+        "everyday",
+        "cinematic",
+        "landscape"
+      ],
+      "styles": [
+        "Cinematic landscape"
+      ],
+      "moods": [],
+      "occasions": [
+        "Cinematic"
+      ],
+      "mechanics": [
+        "Continuous carousel",
+        "Editable photo apertures",
+        "Layered vector materials"
+      ],
+      "slideCount": 4,
+      "slotCount": 4,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#7e6353",
+        "#fff1d3",
+        "#d5ae72"
+      ],
+      "cover": "./catalog/previews/atelier-20-last-light/cover.webp",
+      "spread": "./catalog/previews/atelier-20-last-light/spread.webp",
+      "feature": "./catalog/previews/atelier-20-last-light/feature.webp",
+      "slides": [
+        "./catalog/previews/atelier-20-last-light/01.webp",
+        "./catalog/previews/atelier-20-last-light/02.webp",
+        "./catalog/previews/atelier-20-last-light/03.webp",
+        "./catalog/previews/atelier-20-last-light/04.webp"
+      ],
+      "pack": "./catalog/atelier/20-last-light/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 99.8
+    },
+    {
+      "id": "panorama-01-atlas",
+      "name": "Atlas of Elsewhere",
+      "collectionId": "panorama-01-atlas",
+      "collection": "Panorama Atelier · Travel",
+      "description": "A richly layered travel desk: panoramic postcards, deckled photographs, cartographic lines and collected ephemera.",
+      "era": "Somewhere, slowly.",
+      "aliases": [
+        "Somewhere, slowly.",
+        "Travel",
+        "Panorama Atelier",
+        "Travel"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "travel"
+      ],
+      "styles": [
+        "Travel",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Travel"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#eee7d8",
+        "#253644",
+        "#ac4c34",
+        "#a4b9b0",
+        "#d6d5c9"
+      ],
+      "cover": "./catalog/previews/panorama-01-atlas/cover.webp",
+      "spread": "./catalog/previews/panorama-01-atlas/spread.webp",
+      "feature": "./catalog/previews/panorama-01-atlas/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-01-atlas/01.webp",
+        "./catalog/previews/panorama-01-atlas/02.webp",
+        "./catalog/previews/panorama-01-atlas/03.webp",
+        "./catalog/previews/panorama-01-atlas/04.webp",
+        "./catalog/previews/panorama-01-atlas/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/01-atlas/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 95.99
+    },
+    {
+      "id": "panorama-02-contact",
+      "name": "Contact / 400",
+      "collectionId": "panorama-02-contact",
+      "collection": "Panorama Atelier · Analog",
+      "description": "A continuous photographic proof roll with authentic-looking perforations, exposure marks, proof thumbnails and grease-pencil edits.",
+      "era": "Every frame, a feeling.",
+      "aliases": [
+        "Every frame, a feeling.",
+        "Analog",
+        "Panorama Atelier",
+        "Analog"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "analog"
+      ],
+      "styles": [
+        "Analog",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Analog"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 9,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#151816",
+        "#f0ead8",
+        "#ed653f",
+        "#bc9b64",
+        "#424a42"
+      ],
+      "cover": "./catalog/previews/panorama-02-contact/cover.webp",
+      "spread": "./catalog/previews/panorama-02-contact/spread.webp",
+      "feature": "./catalog/previews/panorama-02-contact/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-02-contact/01.webp",
+        "./catalog/previews/panorama-02-contact/02.webp",
+        "./catalog/previews/panorama-02-contact/03.webp",
+        "./catalog/previews/panorama-02-contact/04.webp",
+        "./catalog/previews/panorama-02-contact/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/02-contact/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.98
+    },
+    {
+      "id": "panorama-03-ether",
+      "name": "Ether / Editorial",
+      "collectionId": "panorama-03-ether",
+      "collection": "Panorama Atelier · Editorial",
+      "description": "A fashion monograph with expansive serif headlines, asymmetric photographic spreads, art-direction notes and intimate inset details.",
+      "era": "An exercise in seeing.",
+      "aliases": [
+        "An exercise in seeing.",
+        "Editorial",
+        "Panorama Atelier",
+        "Editorial"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "editorial"
+      ],
+      "styles": [
+        "Editorial",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Editorial"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 5,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f4efe6",
+        "#312e39",
+        "#6b5063",
+        "#bdad9d",
+        "#d3c8c4"
+      ],
+      "cover": "./catalog/previews/panorama-03-ether/cover.webp",
+      "spread": "./catalog/previews/panorama-03-ether/spread.webp",
+      "feature": "./catalog/previews/panorama-03-ether/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-03-ether/01.webp",
+        "./catalog/previews/panorama-03-ether/02.webp",
+        "./catalog/previews/panorama-03-ether/03.webp",
+        "./catalog/previews/panorama-03-ether/04.webp",
+        "./catalog/previews/panorama-03-ether/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/03-ether/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.97
+    },
+    {
+      "id": "panorama-04-terrain",
+      "name": "Terrain / Field Study",
+      "collectionId": "panorama-04-terrain",
+      "collection": "Panorama Atelier · Nature",
+      "description": "An expedition notebook layered with contour drawings, specimen etchings, ruled field cards and mixed-aspect landscape photography.",
+      "era": "A slower kind of discovery.",
+      "aliases": [
+        "A slower kind of discovery.",
+        "Nature",
+        "Panorama Atelier",
+        "Nature"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "nature"
+      ],
+      "styles": [
+        "Nature",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Nature"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e4e4d3",
+        "#293e35",
+        "#9a553c",
+        "#a8ae8d",
+        "#bdc9b0"
+      ],
+      "cover": "./catalog/previews/panorama-04-terrain/cover.webp",
+      "spread": "./catalog/previews/panorama-04-terrain/spread.webp",
+      "feature": "./catalog/previews/panorama-04-terrain/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-04-terrain/01.webp",
+        "./catalog/previews/panorama-04-terrain/02.webp",
+        "./catalog/previews/panorama-04-terrain/03.webp",
+        "./catalog/previews/panorama-04-terrain/04.webp",
+        "./catalog/previews/panorama-04-terrain/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/04-terrain/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.96
+    },
+    {
+      "id": "panorama-05-after-hours",
+      "name": "After Hours",
+      "collectionId": "panorama-05-after-hours",
+      "collection": "Panorama Atelier · Digital",
+      "description": "A richly layered night-out timeline mixing camcorder overlays, chrome playback windows, a continuous waveform and flash-photo inserts.",
+      "era": "Proof we were here.",
+      "aliases": [
+        "Proof we were here.",
+        "Digital",
+        "Panorama Atelier",
+        "Digital"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "digital"
+      ],
+      "styles": [
+        "Digital",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Digital"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#171520",
+        "#f0ebff",
+        "#ff7549",
+        "#b0a1d1",
+        "#433e59"
+      ],
+      "cover": "./catalog/previews/panorama-05-after-hours/cover.webp",
+      "spread": "./catalog/previews/panorama-05-after-hours/spread.webp",
+      "feature": "./catalog/previews/panorama-05-after-hours/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-05-after-hours/01.webp",
+        "./catalog/previews/panorama-05-after-hours/02.webp",
+        "./catalog/previews/panorama-05-after-hours/03.webp",
+        "./catalog/previews/panorama-05-after-hours/04.webp",
+        "./catalog/previews/panorama-05-after-hours/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/05-after-hours/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 95.95
+    },
+    {
+      "id": "panorama-06-love-letter",
+      "name": "Love, in the Margins",
+      "collectionId": "panorama-06-love-letter",
+      "collection": "Panorama Atelier · Wedding",
+      "description": "A romantic stationery panorama with deckle-edged photographs, fine lace, envelope folds, a wax-like seal and handwritten keepsakes.",
+      "era": "A letter to our favourite day.",
+      "aliases": [
+        "A letter to our favourite day.",
+        "Wedding",
+        "Panorama Atelier",
+        "Wedding"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "wedding"
+      ],
+      "styles": [
+        "Wedding",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Wedding"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f4ece2",
+        "#613c43",
+        "#985762",
+        "#d7bdaf",
+        "#ddccca"
+      ],
+      "cover": "./catalog/previews/panorama-06-love-letter/cover.webp",
+      "spread": "./catalog/previews/panorama-06-love-letter/spread.webp",
+      "feature": "./catalog/previews/panorama-06-love-letter/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-06-love-letter/01.webp",
+        "./catalog/previews/panorama-06-love-letter/02.webp",
+        "./catalog/previews/panorama-06-love-letter/03.webp",
+        "./catalog/previews/panorama-06-love-letter/04.webp",
+        "./catalog/previews/panorama-06-love-letter/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/06-love-letter/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.94
+    },
+    {
+      "id": "panorama-07-tideline",
+      "name": "Tideline / Blue Summer",
+      "collectionId": "panorama-07-tideline",
+      "collection": "Panorama Atelier · Travel",
+      "description": "A sun-soaked coastal journal with cobalt stripes, postcard stamps, wavy photo edges, cheerful stationery and a continuous maritime route.",
+      "era": "Postcards from the sun.",
+      "aliases": [
+        "Postcards from the sun.",
+        "Travel",
+        "Panorama Atelier",
+        "Travel"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "travel"
+      ],
+      "styles": [
+        "Travel",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Travel"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f5edd5",
+        "#234a94",
+        "#db653f",
+        "#f2cf53",
+        "#ccd9d7"
+      ],
+      "cover": "./catalog/previews/panorama-07-tideline/cover.webp",
+      "spread": "./catalog/previews/panorama-07-tideline/spread.webp",
+      "feature": "./catalog/previews/panorama-07-tideline/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-07-tideline/01.webp",
+        "./catalog/previews/panorama-07-tideline/02.webp",
+        "./catalog/previews/panorama-07-tideline/03.webp",
+        "./catalog/previews/panorama-07-tideline/04.webp",
+        "./catalog/previews/panorama-07-tideline/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/07-tideline/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.93
+    },
+    {
+      "id": "panorama-08-built-form",
+      "name": "Built Form",
+      "collectionId": "panorama-08-built-form",
+      "collection": "Panorama Atelier · Architecture",
+      "description": "A tactile architecture monograph with measured elevations, dimension strings, material swatches and sharply choreographed panoramic photography.",
+      "era": "A monograph of space.",
+      "aliases": [
+        "A monograph of space.",
+        "Architecture",
+        "Panorama Atelier",
+        "Architecture"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "architecture"
+      ],
+      "styles": [
+        "Architecture",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Architecture"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e7e4dc",
+        "#242827",
+        "#a55832",
+        "#b5b2a8",
+        "#c3c7c3"
+      ],
+      "cover": "./catalog/previews/panorama-08-built-form/cover.webp",
+      "spread": "./catalog/previews/panorama-08-built-form/spread.webp",
+      "feature": "./catalog/previews/panorama-08-built-form/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-08-built-form/01.webp",
+        "./catalog/previews/panorama-08-built-form/02.webp",
+        "./catalog/previews/panorama-08-built-form/03.webp",
+        "./catalog/previews/panorama-08-built-form/04.webp",
+        "./catalog/previews/panorama-08-built-form/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/08-built-form/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.92
+    },
+    {
+      "id": "panorama-09-rewind",
+      "name": "Rewind / This Year",
+      "collectionId": "panorama-09-rewind",
+      "collection": "Panorama Atelier · Recap",
+      "description": "A calendar-meets-film diary with a continuous roll, overlapping date cards, instant prints, proof frames and handwritten memory labels.",
+      "era": "The ordinary became everything.",
+      "aliases": [
+        "The ordinary became everything.",
+        "Recap",
+        "Panorama Atelier",
+        "Recap"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "recap"
+      ],
+      "styles": [
+        "Recap",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Recap"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 9,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e9dfc8",
+        "#36382c",
+        "#ad4339",
+        "#b6ac7d",
+        "#d2cbae"
+      ],
+      "cover": "./catalog/previews/panorama-09-rewind/cover.webp",
+      "spread": "./catalog/previews/panorama-09-rewind/spread.webp",
+      "feature": "./catalog/previews/panorama-09-rewind/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-09-rewind/01.webp",
+        "./catalog/previews/panorama-09-rewind/02.webp",
+        "./catalog/previews/panorama-09-rewind/03.webp",
+        "./catalog/previews/panorama-09-rewind/04.webp",
+        "./catalog/previews/panorama-09-rewind/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/09-rewind/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 95.91
+    },
+    {
+      "id": "panorama-10-paper-noise",
+      "name": "Paper Noise",
+      "collectionId": "panorama-10-paper-noise",
+      "collection": "Panorama Atelier · Zine",
+      "description": "A dense independent zine built from xerox-style paper, acid-green typography, torn windows, marker annotations and paste-up photography.",
+      "era": "Do not file neatly.",
+      "aliases": [
+        "Do not file neatly.",
+        "Zine",
+        "Panorama Atelier",
+        "Zine"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "zine"
+      ],
+      "styles": [
+        "Zine",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Zine"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#dddcd1",
+        "#232722",
+        "#c8ea45",
+        "#989f90",
+        "#afb6a6"
+      ],
+      "cover": "./catalog/previews/panorama-10-paper-noise/cover.webp",
+      "spread": "./catalog/previews/panorama-10-paper-noise/spread.webp",
+      "feature": "./catalog/previews/panorama-10-paper-noise/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-10-paper-noise/01.webp",
+        "./catalog/previews/panorama-10-paper-noise/02.webp",
+        "./catalog/previews/panorama-10-paper-noise/03.webp",
+        "./catalog/previews/panorama-10-paper-noise/04.webp",
+        "./catalog/previews/panorama-10-paper-noise/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/10-paper-noise/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.9
+    },
+    {
+      "id": "panorama-11-departure",
+      "name": "Departure / Window Seat",
+      "collectionId": "panorama-11-departure",
+      "collection": "Panorama Atelier · Travel",
+      "description": "A travel panorama seen through five sculpted aircraft-window frames, with one continuous horizon beneath, boarding-pass ephemera and cabin details.",
+      "era": "Between here and everywhere.",
+      "aliases": [
+        "Between here and everywhere.",
+        "Travel",
+        "Panorama Atelier",
+        "Travel"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "travel"
+      ],
+      "styles": [
+        "Travel",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Travel"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e4e9ec",
+        "#334859",
+        "#b75a41",
+        "#a8bbc6",
+        "#c4d2da"
+      ],
+      "cover": "./catalog/previews/panorama-11-departure/cover.webp",
+      "spread": "./catalog/previews/panorama-11-departure/spread.webp",
+      "feature": "./catalog/previews/panorama-11-departure/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-11-departure/01.webp",
+        "./catalog/previews/panorama-11-departure/02.webp",
+        "./catalog/previews/panorama-11-departure/03.webp",
+        "./catalog/previews/panorama-11-departure/04.webp",
+        "./catalog/previews/panorama-11-departure/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/11-departure/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.89
+    },
+    {
+      "id": "panorama-12-object-index",
+      "name": "Object Index",
+      "collectionId": "panorama-12-object-index",
+      "collection": "Panorama Atelier · Brand",
+      "description": "A richly art-directed product journal: oversized product plates, circular detail apertures, packaging dielines, chromatic swatches and tilted stock labels.",
+      "era": "Made to be noticed.",
+      "aliases": [
+        "Made to be noticed.",
+        "Brand",
+        "Panorama Atelier",
+        "Brand"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "brand"
+      ],
+      "styles": [
+        "Brand",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Brand"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#efd8c2",
+        "#4b302d",
+        "#bd4e35",
+        "#ce9d7b",
+        "#dcba9f"
+      ],
+      "cover": "./catalog/previews/panorama-12-object-index/cover.webp",
+      "spread": "./catalog/previews/panorama-12-object-index/spread.webp",
+      "feature": "./catalog/previews/panorama-12-object-index/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-12-object-index/01.webp",
+        "./catalog/previews/panorama-12-object-index/02.webp",
+        "./catalog/previews/panorama-12-object-index/03.webp",
+        "./catalog/previews/panorama-12-object-index/04.webp",
+        "./catalog/previews/panorama-12-object-index/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/12-object-index/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.88
+    },
+    {
+      "id": "panorama-13-rally",
+      "name": "Rally / Motion Studies",
+      "collectionId": "panorama-13-rally",
+      "collection": "Panorama Atelier · Sport",
+      "description": "A high-energy automotive and sport feature using panoramic motion frames, drafting ticks, race-route diagrams, technical labels and giant racing numerals.",
+      "era": "Built for the feeling.",
+      "aliases": [
+        "Built for the feeling.",
+        "Sport",
+        "Panorama Atelier",
+        "Sport"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "sport"
+      ],
+      "styles": [
+        "Sport",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Sport"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#dfded3",
+        "#202623",
+        "#d64b2c",
+        "#989e8e",
+        "#b9bfb5"
+      ],
+      "cover": "./catalog/previews/panorama-13-rally/cover.webp",
+      "spread": "./catalog/previews/panorama-13-rally/spread.webp",
+      "feature": "./catalog/previews/panorama-13-rally/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-13-rally/01.webp",
+        "./catalog/previews/panorama-13-rally/02.webp",
+        "./catalog/previews/panorama-13-rally/03.webp",
+        "./catalog/previews/panorama-13-rally/04.webp",
+        "./catalog/previews/panorama-13-rally/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/13-rally/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 95.87
+    },
+    {
+      "id": "panorama-14-supper-club",
+      "name": "Supper Club",
+      "collectionId": "panorama-14-supper-club",
+      "collection": "Panorama Atelier · Food",
+      "description": "A richly layered dining journal with gingham linen, recipe fragments, menu cards, receipt typography, food photographs and hand-drawn tableware.",
+      "era": "A seat at our table.",
+      "aliases": [
+        "A seat at our table.",
+        "Food",
+        "Panorama Atelier",
+        "Food"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "food"
+      ],
+      "styles": [
+        "Food",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Food"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f0e8cf",
+        "#693b35",
+        "#964d3e",
+        "#a8ae88",
+        "#d5c5ad"
+      ],
+      "cover": "./catalog/previews/panorama-14-supper-club/cover.webp",
+      "spread": "./catalog/previews/panorama-14-supper-club/spread.webp",
+      "feature": "./catalog/previews/panorama-14-supper-club/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-14-supper-club/01.webp",
+        "./catalog/previews/panorama-14-supper-club/02.webp",
+        "./catalog/previews/panorama-14-supper-club/03.webp",
+        "./catalog/previews/panorama-14-supper-club/04.webp",
+        "./catalog/previews/panorama-14-supper-club/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/14-supper-club/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.86
+    },
+    {
+      "id": "panorama-15-petal-press",
+      "name": "Petal Press",
+      "collectionId": "panorama-15-petal-press",
+      "collection": "Panorama Atelier · Nature",
+      "description": "A pressed-flower folio with engraved botanical illustrations, translucent-paper impressions, specimen labels, stitched bindings and gently overlapping photographs.",
+      "era": "Collected, not arranged.",
+      "aliases": [
+        "Collected, not arranged.",
+        "Nature",
+        "Panorama Atelier",
+        "Nature"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "nature"
+      ],
+      "styles": [
+        "Nature",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Nature"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 5,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e9dde0",
+        "#594551",
+        "#895b6c",
+        "#b4be9d",
+        "#d2bfc9"
+      ],
+      "cover": "./catalog/previews/panorama-15-petal-press/cover.webp",
+      "spread": "./catalog/previews/panorama-15-petal-press/spread.webp",
+      "feature": "./catalog/previews/panorama-15-petal-press/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-15-petal-press/01.webp",
+        "./catalog/previews/panorama-15-petal-press/02.webp",
+        "./catalog/previews/panorama-15-petal-press/03.webp",
+        "./catalog/previews/panorama-15-petal-press/04.webp",
+        "./catalog/previews/panorama-15-petal-press/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/15-petal-press/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.85
+    },
+    {
+      "id": "panorama-16-chrome-notes",
+      "name": "Chrome / Liner Notes",
+      "collectionId": "panorama-16-chrome-notes",
+      "collection": "Panorama Atelier · Music",
+      "description": "A tactile music release journal combining a large iridescent disc, photo sleeves, concert panoramas, track-list typography and chrome interface details.",
+      "era": "For the songs that stayed.",
+      "aliases": [
+        "For the songs that stayed.",
+        "Music",
+        "Panorama Atelier",
+        "Music"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "music"
+      ],
+      "styles": [
+        "Music",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Music"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 5,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#292733",
+        "#efebf6",
+        "#beb0e5",
+        "#9499b0",
+        "#575369"
+      ],
+      "cover": "./catalog/previews/panorama-16-chrome-notes/cover.webp",
+      "spread": "./catalog/previews/panorama-16-chrome-notes/spread.webp",
+      "feature": "./catalog/previews/panorama-16-chrome-notes/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-16-chrome-notes/01.webp",
+        "./catalog/previews/panorama-16-chrome-notes/02.webp",
+        "./catalog/previews/panorama-16-chrome-notes/03.webp",
+        "./catalog/previews/panorama-16-chrome-notes/04.webp",
+        "./catalog/previews/panorama-16-chrome-notes/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/16-chrome-notes/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.84
+    },
+    {
+      "id": "panorama-17-ordinary-archive",
+      "name": "The Ordinary Archive",
+      "collectionId": "panorama-17-ordinary-archive",
+      "collection": "Panorama Atelier · Scrapbook",
+      "description": "An open-book memory archive with deckled folios, library cards, index tabs, photographic mounts and margin annotations.",
+      "era": "Little things, well remembered.",
+      "aliases": [
+        "Little things, well remembered.",
+        "Scrapbook",
+        "Panorama Atelier",
+        "Scrapbook"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "scrapbook"
+      ],
+      "styles": [
+        "Scrapbook",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Scrapbook"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 5,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e5dcc7",
+        "#4a4b36",
+        "#976b45",
+        "#a9ae8b",
+        "#ccc6af"
+      ],
+      "cover": "./catalog/previews/panorama-17-ordinary-archive/cover.webp",
+      "spread": "./catalog/previews/panorama-17-ordinary-archive/spread.webp",
+      "feature": "./catalog/previews/panorama-17-ordinary-archive/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-17-ordinary-archive/01.webp",
+        "./catalog/previews/panorama-17-ordinary-archive/02.webp",
+        "./catalog/previews/panorama-17-ordinary-archive/03.webp",
+        "./catalog/previews/panorama-17-ordinary-archive/04.webp",
+        "./catalog/previews/panorama-17-ordinary-archive/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/17-ordinary-archive/pack.json",
+      "songs": [],
+      "featured": true,
+      "curation": 95.83
+    },
+    {
+      "id": "panorama-18-riso-club",
+      "name": "Riso Club",
+      "collectionId": "panorama-18-riso-club",
+      "collection": "Panorama Atelier · Art",
+      "description": "A vivid independent-print panorama with misregistered colour shapes, organic photo masks, halftone dots, hand-cut stock and offset editorial typography.",
+      "era": "Colour outside the lines.",
+      "aliases": [
+        "Colour outside the lines.",
+        "Art",
+        "Panorama Atelier",
+        "Art"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "art"
+      ],
+      "styles": [
+        "Art",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Art"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f1e6ce",
+        "#343a68",
+        "#e66a51",
+        "#e5c349",
+        "#cec7cf"
+      ],
+      "cover": "./catalog/previews/panorama-18-riso-club/cover.webp",
+      "spread": "./catalog/previews/panorama-18-riso-club/spread.webp",
+      "feature": "./catalog/previews/panorama-18-riso-club/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-18-riso-club/01.webp",
+        "./catalog/previews/panorama-18-riso-club/02.webp",
+        "./catalog/previews/panorama-18-riso-club/03.webp",
+        "./catalog/previews/panorama-18-riso-club/04.webp",
+        "./catalog/previews/panorama-18-riso-club/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/18-riso-club/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.82
+    },
+    {
+      "id": "panorama-19-summit",
+      "name": "Summit / Beyond the Line",
+      "collectionId": "panorama-19-summit",
+      "collection": "Panorama Atelier · Nature",
+      "description": "A mountain expedition panorama with engraved contours, elevation profiles, survey marks, field patches and dramatic wide landscape windows.",
+      "era": "Go where the view changes.",
+      "aliases": [
+        "Go where the view changes.",
+        "Nature",
+        "Panorama Atelier",
+        "Nature"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "nature"
+      ],
+      "styles": [
+        "Nature",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Nature"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#dce4e4",
+        "#263b43",
+        "#ca603e",
+        "#9cafb2",
+        "#b4c7cb"
+      ],
+      "cover": "./catalog/previews/panorama-19-summit/cover.webp",
+      "spread": "./catalog/previews/panorama-19-summit/spread.webp",
+      "feature": "./catalog/previews/panorama-19-summit/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-19-summit/01.webp",
+        "./catalog/previews/panorama-19-summit/02.webp",
+        "./catalog/previews/panorama-19-summit/03.webp",
+        "./catalog/previews/panorama-19-summit/04.webp",
+        "./catalog/previews/panorama-19-summit/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/19-summit/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.81
+    },
+    {
+      "id": "panorama-20-room-service",
+      "name": "Room Service",
+      "collectionId": "panorama-20-room-service",
+      "collection": "Panorama Atelier · Lifestyle",
+      "description": "A richly layered boutique-stay editorial with arched photographic apertures, room-number plaques, engraved key motifs, luggage tags and a quiet panoramic sequence.",
+      "era": "The art of staying awhile.",
+      "aliases": [
+        "The art of staying awhile.",
+        "Lifestyle",
+        "Panorama Atelier",
+        "Lifestyle"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "panorama",
+        "lifestyle"
+      ],
+      "styles": [
+        "Lifestyle",
+        "Panorama Atelier"
+      ],
+      "moods": [],
+      "occasions": [
+        "Lifestyle"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e8ddcc",
+        "#4d393c",
+        "#967447",
+        "#b6a78d",
+        "#cfc2b5"
+      ],
+      "cover": "./catalog/previews/panorama-20-room-service/cover.webp",
+      "spread": "./catalog/previews/panorama-20-room-service/spread.webp",
+      "feature": "./catalog/previews/panorama-20-room-service/feature.webp",
+      "slides": [
+        "./catalog/previews/panorama-20-room-service/01.webp",
+        "./catalog/previews/panorama-20-room-service/02.webp",
+        "./catalog/previews/panorama-20-room-service/03.webp",
+        "./catalog/previews/panorama-20-room-service/04.webp",
+        "./catalog/previews/panorama-20-room-service/05.webp"
+      ],
+      "pack": "./catalog/panorama-atelier/20-room-service/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": 95.8
+    },
+    {
+      "id": "parallax-01-hotel",
+      "name": "The Sunroom Register",
+      "collectionId": "parallax-01-hotel",
+      "collection": "Parallax Field Editions · Hotel stationery / coastal scrapbook",
+      "description": "A long sun-faded holiday spread: oversized torn panoramas, room-key ephemera, citrus engravings and overlapping postage prints.",
+      "era": "",
+      "aliases": [
+        "Hotel stationery / coastal scrapbook",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "hotel",
+        "stationery",
+        "coastal",
+        "scrapbook"
+      ],
+      "styles": [
+        "Hotel stationery / coastal scrapbook",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Hotel stationery / coastal scrapbook"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 8,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f8eacb",
+        "#24515a",
+        "#e75f32",
+        "#e8c878",
+        "#8a977c"
+      ],
+      "cover": "./catalog/previews/parallax-01-hotel/cover.webp",
+      "spread": "./catalog/previews/parallax-01-hotel/spread.webp",
+      "feature": "./catalog/previews/parallax-01-hotel/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-01-hotel/01.webp",
+        "./catalog/previews/parallax-01-hotel/02.webp",
+        "./catalog/previews/parallax-01-hotel/03.webp",
+        "./catalog/previews/parallax-01-hotel/04.webp",
+        "./catalog/previews/parallax-01-hotel/05.webp"
+      ],
+      "pack": "./catalog/parallax/01-hotel/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-02-linen",
+      "name": "The Keepsake Room",
+      "collectionId": "parallax-02-linen",
+      "collection": "Parallax Field Editions · Stitched linen / keepsake archive",
+      "description": "Softly layered memory keeping with stitched cloth, an oval portrait mount, scalloped paper and a ribbon travelling between images.",
+      "era": "",
+      "aliases": [
+        "Stitched linen / keepsake archive",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "stitched",
+        "linen",
+        "keepsake",
+        "archive"
+      ],
+      "styles": [
+        "Stitched linen / keepsake archive",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Stitched linen / keepsake archive"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f5efe4",
+        "#584e46",
+        "#8b5d63",
+        "#e6d5c8",
+        "#ac9e8b"
+      ],
+      "cover": "./catalog/previews/parallax-02-linen/cover.webp",
+      "spread": "./catalog/previews/parallax-02-linen/spread.webp",
+      "feature": "./catalog/previews/parallax-02-linen/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-02-linen/01.webp",
+        "./catalog/previews/parallax-02-linen/02.webp",
+        "./catalog/previews/parallax-02-linen/03.webp",
+        "./catalog/previews/parallax-02-linen/04.webp",
+        "./catalog/previews/parallax-02-linen/05.webp"
+      ],
+      "pack": "./catalog/parallax/02-linen/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-03-garden",
+      "name": "The Glasshouse Almanac",
+      "collectionId": "parallax-03-garden",
+      "collection": "Parallax Field Editions · Botanical engraving / garden almanac",
+      "description": "A specimen cabinet made into a continuous carousel: engraved botanical stems, archways, library labels and overlapping oval studies.",
+      "era": "",
+      "aliases": [
+        "Botanical engraving / garden almanac",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "botanical",
+        "engraving",
+        "garden",
+        "almanac"
+      ],
+      "styles": [
+        "Botanical engraving / garden almanac",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Botanical engraving / garden almanac"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 8,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e6eadb",
+        "#244c3a",
+        "#a56142",
+        "#cbd5bd",
+        "#879783"
+      ],
+      "cover": "./catalog/previews/parallax-03-garden/cover.webp",
+      "spread": "./catalog/previews/parallax-03-garden/spread.webp",
+      "feature": "./catalog/previews/parallax-03-garden/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-03-garden/01.webp",
+        "./catalog/previews/parallax-03-garden/02.webp",
+        "./catalog/previews/parallax-03-garden/03.webp",
+        "./catalog/previews/parallax-03-garden/04.webp",
+        "./catalog/previews/parallax-03-garden/05.webp"
+      ],
+      "pack": "./catalog/parallax/03-garden/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-04-stereo",
+      "name": "A Side / B Side",
+      "collectionId": "parallax-04-stereo",
+      "collection": "Parallax Field Editions · Record liner notes / chrome disc",
+      "description": "A late-night record sleeve stretched into a five-panel liner: spectral chrome, oscillating waveforms, jewel-case inserts and analogue indexing.",
+      "era": "",
+      "aliases": [
+        "Record liner notes / chrome disc",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "record",
+        "liner",
+        "notes",
+        "chrome",
+        "disc"
+      ],
+      "styles": [
+        "Record liner notes / chrome disc",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Record liner notes / chrome disc"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#1b1e2c",
+        "#f1efdf",
+        "#c5e16b",
+        "#343945",
+        "#8c969c"
+      ],
+      "cover": "./catalog/previews/parallax-04-stereo/cover.webp",
+      "spread": "./catalog/previews/parallax-04-stereo/spread.webp",
+      "feature": "./catalog/previews/parallax-04-stereo/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-04-stereo/01.webp",
+        "./catalog/previews/parallax-04-stereo/02.webp",
+        "./catalog/previews/parallax-04-stereo/03.webp",
+        "./catalog/previews/parallax-04-stereo/04.webp",
+        "./catalog/previews/parallax-04-stereo/05.webp"
+      ],
+      "pack": "./catalog/parallax/04-stereo/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-05-tide",
+      "name": "Low Tide Journal",
+      "collectionId": "parallax-05-tide",
+      "collection": "Parallax Field Editions · Bathymetric contours / marine journal",
+      "description": "Two immense coastal windows are threaded with chart-like contours, porthole details, tidal notation and chartmaker ornament.",
+      "era": "",
+      "aliases": [
+        "Bathymetric contours / marine journal",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "bathymetric",
+        "contours",
+        "marine",
+        "journal"
+      ],
+      "styles": [
+        "Bathymetric contours / marine journal",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Bathymetric contours / marine journal"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e8eee7",
+        "#2c5664",
+        "#ba6f51",
+        "#c4d4cf",
+        "#809b99"
+      ],
+      "cover": "./catalog/previews/parallax-05-tide/cover.webp",
+      "spread": "./catalog/previews/parallax-05-tide/spread.webp",
+      "feature": "./catalog/previews/parallax-05-tide/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-05-tide/01.webp",
+        "./catalog/previews/parallax-05-tide/02.webp",
+        "./catalog/previews/parallax-05-tide/03.webp",
+        "./catalog/previews/parallax-05-tide/04.webp",
+        "./catalog/previews/parallax-05-tide/05.webp"
+      ],
+      "pack": "./catalog/parallax/05-tide/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-06-celestial",
+      "name": "Under the Same Sky",
+      "collectionId": "parallax-06-celestial",
+      "collection": "Parallax Field Editions · Celestial atlas / night panorama",
+      "description": "An observatory notebook in midnight and warm metal: orbital grids, engraved compasswork and observatory windows, connected by a panoramic horizon.",
+      "era": "",
+      "aliases": [
+        "Celestial atlas / night panorama",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "celestial",
+        "atlas",
+        "night",
+        "panorama"
+      ],
+      "styles": [
+        "Celestial atlas / night panorama",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Celestial atlas / night panorama"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#172839",
+        "#ede5d1",
+        "#d1aa6a",
+        "#304758",
+        "#80999f"
+      ],
+      "cover": "./catalog/previews/parallax-06-celestial/cover.webp",
+      "spread": "./catalog/previews/parallax-06-celestial/spread.webp",
+      "feature": "./catalog/previews/parallax-06-celestial/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-06-celestial/01.webp",
+        "./catalog/previews/parallax-06-celestial/02.webp",
+        "./catalog/previews/parallax-06-celestial/03.webp",
+        "./catalog/previews/parallax-06-celestial/04.webp",
+        "./catalog/previews/parallax-06-celestial/05.webp"
+      ],
+      "pack": "./catalog/parallax/06-celestial/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-07-cyanotype",
+      "name": "Blueprints of Summer",
+      "collectionId": "parallax-07-cyanotype",
+      "collection": "Parallax Field Editions · Cyanotype / botanical specimen index",
+      "description": "Specimen-book precision with deep-blue paper, pale plant engravings, exposed deckle borders, folio labels and continuous photographic plates.",
+      "era": "",
+      "aliases": [
+        "Cyanotype / botanical specimen index",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "cyanotype",
+        "botanical",
+        "specimen",
+        "index"
+      ],
+      "styles": [
+        "Cyanotype / botanical specimen index",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Cyanotype / botanical specimen index"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#173d78",
+        "#f1eedf",
+        "#b9d5e9",
+        "#3c5f8c",
+        "#8aa9c5"
+      ],
+      "cover": "./catalog/previews/parallax-07-cyanotype/cover.webp",
+      "spread": "./catalog/previews/parallax-07-cyanotype/spread.webp",
+      "feature": "./catalog/previews/parallax-07-cyanotype/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-07-cyanotype/01.webp",
+        "./catalog/previews/parallax-07-cyanotype/02.webp",
+        "./catalog/previews/parallax-07-cyanotype/03.webp",
+        "./catalog/previews/parallax-07-cyanotype/04.webp",
+        "./catalog/previews/parallax-07-cyanotype/05.webp"
+      ],
+      "pack": "./catalog/parallax/07-cyanotype/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-08-transit",
+      "name": "Next Stop, Elsewhere",
+      "collectionId": "parallax-08-transit",
+      "collection": "Parallax Field Editions · Railway ticket / nocturnal travel",
+      "description": "A moving carriage of photographs, connected by route diagrams, fine perforations, railway-ticket photo holders and destination-board typography.",
+      "era": "",
+      "aliases": [
+        "Railway ticket / nocturnal travel",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "railway",
+        "ticket",
+        "nocturnal",
+        "travel"
+      ],
+      "styles": [
+        "Railway ticket / nocturnal travel",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Railway ticket / nocturnal travel"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#25323b",
+        "#f5ecd6",
+        "#d9a953",
+        "#41515a",
+        "#91a4ac"
+      ],
+      "cover": "./catalog/previews/parallax-08-transit/cover.webp",
+      "spread": "./catalog/previews/parallax-08-transit/spread.webp",
+      "feature": "./catalog/previews/parallax-08-transit/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-08-transit/01.webp",
+        "./catalog/previews/parallax-08-transit/02.webp",
+        "./catalog/previews/parallax-08-transit/03.webp",
+        "./catalog/previews/parallax-08-transit/04.webp",
+        "./catalog/previews/parallax-08-transit/05.webp"
+      ],
+      "pack": "./catalog/parallax/08-transit/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-09-camcorder",
+      "name": "No Signal, Just Us",
+      "collectionId": "parallax-09-camcorder",
+      "collection": "Parallax Field Editions · Camcorder OSD / after-hours diary",
+      "description": "An immersive all-photo panorama with hand-held tape fragments, fine scanlines, focus brackets, timecode rails and a warm analogue capture language.",
+      "era": "",
+      "aliases": [
+        "Camcorder OSD / after-hours diary",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "camcorder",
+        "osd",
+        "after",
+        "hours",
+        "diary"
+      ],
+      "styles": [
+        "Camcorder OSD / after-hours diary",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Camcorder OSD / after-hours diary"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#262b29",
+        "#fff5d6",
+        "#e67256",
+        "#51574e",
+        "#a4aa95"
+      ],
+      "cover": "./catalog/previews/parallax-09-camcorder/cover.webp",
+      "spread": "./catalog/previews/parallax-09-camcorder/spread.webp",
+      "feature": "./catalog/previews/parallax-09-camcorder/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-09-camcorder/01.webp",
+        "./catalog/previews/parallax-09-camcorder/02.webp",
+        "./catalog/previews/parallax-09-camcorder/03.webp",
+        "./catalog/previews/parallax-09-camcorder/04.webp",
+        "./catalog/previews/parallax-09-camcorder/05.webp"
+      ],
+      "pack": "./catalog/parallax/09-camcorder/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-10-newspaper",
+      "name": "The Everyday Observer",
+      "collectionId": "parallax-10-newspaper",
+      "collection": "Parallax Field Editions · Newspaper supplement / personal editorial",
+      "description": "Photo-led weekend journalism: masthead rules, offset halftone punctuation, inset press photographs, annotation columns and an oversized picture-led spread.",
+      "era": "",
+      "aliases": [
+        "Newspaper supplement / personal editorial",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "newspaper",
+        "supplement",
+        "personal",
+        "editorial"
+      ],
+      "styles": [
+        "Newspaper supplement / personal editorial",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Newspaper supplement / personal editorial"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#efe9db",
+        "#363632",
+        "#a64f3f",
+        "#d8d0bd",
+        "#9c9688"
+      ],
+      "cover": "./catalog/previews/parallax-10-newspaper/cover.webp",
+      "spread": "./catalog/previews/parallax-10-newspaper/spread.webp",
+      "feature": "./catalog/previews/parallax-10-newspaper/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-10-newspaper/01.webp",
+        "./catalog/previews/parallax-10-newspaper/02.webp",
+        "./catalog/previews/parallax-10-newspaper/03.webp",
+        "./catalog/previews/parallax-10-newspaper/04.webp",
+        "./catalog/previews/parallax-10-newspaper/05.webp"
+      ],
+      "pack": "./catalog/parallax/10-newspaper/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-11-postal",
+      "name": "Postmarked Elsewhere",
+      "collectionId": "parallax-11-postal",
+      "collection": "Parallax Field Editions · Postal ephemera / travel scrapbook",
+      "description": "A travelling pile of full-width photographs, cancelled postage prints, vellum envelopes, deckle paper and adhesive strips. Every swipe reveals another piece of mail.",
+      "era": "",
+      "aliases": [
+        "Postal ephemera / travel scrapbook",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "postal",
+        "ephemera",
+        "travel",
+        "scrapbook"
+      ],
+      "styles": [
+        "Postal ephemera / travel scrapbook",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Postal ephemera / travel scrapbook"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#eae1cb",
+        "#454840",
+        "#b9583e",
+        "#d2c6a5",
+        "#939382"
+      ],
+      "cover": "./catalog/previews/parallax-11-postal/cover.webp",
+      "spread": "./catalog/previews/parallax-11-postal/spread.webp",
+      "feature": "./catalog/previews/parallax-11-postal/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-11-postal/01.webp",
+        "./catalog/previews/parallax-11-postal/02.webp",
+        "./catalog/previews/parallax-11-postal/03.webp",
+        "./catalog/previews/parallax-11-postal/04.webp",
+        "./catalog/previews/parallax-11-postal/05.webp"
+      ],
+      "pack": "./catalog/parallax/11-postal/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-12-rally",
+      "name": "The Motion Register",
+      "collectionId": "parallax-12-rally",
+      "collection": "Parallax Field Editions · Rally telemetry / automotive editorial",
+      "description": "Motorsport editorial with chamfered panoramic photography, circuit-like continuity, mechanical calibration and inset proof frames. All instrument values are decorative.",
+      "era": "",
+      "aliases": [
+        "Rally telemetry / automotive editorial",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "rally",
+        "telemetry",
+        "automotive",
+        "editorial"
+      ],
+      "styles": [
+        "Rally telemetry / automotive editorial",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Rally telemetry / automotive editorial"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e9ebdc",
+        "#242c30",
+        "#99a833",
+        "#d2d8c6",
+        "#869187"
+      ],
+      "cover": "./catalog/previews/parallax-12-rally/cover.webp",
+      "spread": "./catalog/previews/parallax-12-rally/spread.webp",
+      "feature": "./catalog/previews/parallax-12-rally/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-12-rally/01.webp",
+        "./catalog/previews/parallax-12-rally/02.webp",
+        "./catalog/previews/parallax-12-rally/03.webp",
+        "./catalog/previews/parallax-12-rally/04.webp",
+        "./catalog/previews/parallax-12-rally/05.webp"
+      ],
+      "pack": "./catalog/parallax/12-rally/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-13-prism",
+      "name": "The Afterglow Study",
+      "collectionId": "parallax-13-prism",
+      "collection": "Parallax Field Editions · Prismatic transparency / sculptural gallery",
+      "description": "A sculptural gallery of translucent borders, oval picture windows and looping spectral ribbons. The visual flow comes from intersecting curves, not a repeated grid.",
+      "era": "",
+      "aliases": [
+        "Prismatic transparency / sculptural gallery",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "prismatic",
+        "transparency",
+        "sculptural",
+        "gallery"
+      ],
+      "styles": [
+        "Prismatic transparency / sculptural gallery",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Prismatic transparency / sculptural gallery"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e7e3ef",
+        "#38495b",
+        "#7a77ad",
+        "#c7d3e2",
+        "#98a8bf"
+      ],
+      "cover": "./catalog/previews/parallax-13-prism/cover.webp",
+      "spread": "./catalog/previews/parallax-13-prism/spread.webp",
+      "feature": "./catalog/previews/parallax-13-prism/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-13-prism/01.webp",
+        "./catalog/previews/parallax-13-prism/02.webp",
+        "./catalog/previews/parallax-13-prism/03.webp",
+        "./catalog/previews/parallax-13-prism/04.webp",
+        "./catalog/previews/parallax-13-prism/05.webp"
+      ],
+      "pack": "./catalog/parallax/13-prism/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-14-film",
+      "name": "Proof of Being Here",
+      "collectionId": "parallax-14-film",
+      "collection": "Parallax Field Editions · 35mm proof / city diary",
+      "description": "A true horizontal negative strip threaded across the panorama with amber edge codes, grease-pencil selection marks and irregularly stacked proof prints.",
+      "era": "",
+      "aliases": [
+        "35mm proof / city diary",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "35mm",
+        "proof",
+        "city",
+        "diary"
+      ],
+      "styles": [
+        "35mm proof / city diary",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "35mm proof / city diary"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#302b28",
+        "#f2e5cf",
+        "#d18c4b",
+        "#574b41",
+        "#a08e79"
+      ],
+      "cover": "./catalog/previews/parallax-14-film/cover.webp",
+      "spread": "./catalog/previews/parallax-14-film/spread.webp",
+      "feature": "./catalog/previews/parallax-14-film/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-14-film/01.webp",
+        "./catalog/previews/parallax-14-film/02.webp",
+        "./catalog/previews/parallax-14-film/03.webp",
+        "./catalog/previews/parallax-14-film/04.webp",
+        "./catalog/previews/parallax-14-film/05.webp"
+      ],
+      "pack": "./catalog/parallax/14-film/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-15-architecture",
+      "name": "The Spatial Index",
+      "collectionId": "parallax-15-architecture",
+      "collection": "Parallax Field Editions · Architectural drawing / concrete editorial",
+      "description": "Gallery-scale architecture with fine construction grids, dimension witnesses, structural axonometrics and asymmetrical mounted views. Notes are illustrative, not engineering plans.",
+      "era": "",
+      "aliases": [
+        "Architectural drawing / concrete editorial",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "architectural",
+        "drawing",
+        "concrete",
+        "editorial"
+      ],
+      "styles": [
+        "Architectural drawing / concrete editorial",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Architectural drawing / concrete editorial"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e6e5de",
+        "#303c43",
+        "#5a7588",
+        "#c8d0cc",
+        "#8c999a"
+      ],
+      "cover": "./catalog/previews/parallax-15-architecture/cover.webp",
+      "spread": "./catalog/previews/parallax-15-architecture/spread.webp",
+      "feature": "./catalog/previews/parallax-15-architecture/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-15-architecture/01.webp",
+        "./catalog/previews/parallax-15-architecture/02.webp",
+        "./catalog/previews/parallax-15-architecture/03.webp",
+        "./catalog/previews/parallax-15-architecture/04.webp",
+        "./catalog/previews/parallax-15-architecture/05.webp"
+      ],
+      "pack": "./catalog/parallax/15-architecture/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-16-kitchen",
+      "name": "The Market Notebook",
+      "collectionId": "parallax-16-kitchen",
+      "collection": "Parallax Field Editions · Recipe cards / market journal",
+      "description": "A warm culinary scrapbook with checked table linen, culinary-note cards, stamped market prints, herb engravings and panoramic table stories.",
+      "era": "",
+      "aliases": [
+        "Recipe cards / market journal",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "recipe",
+        "cards",
+        "market",
+        "journal"
+      ],
+      "styles": [
+        "Recipe cards / market journal",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Recipe cards / market journal"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f5e6ae",
+        "#5d4536",
+        "#b9523c",
+        "#e6d08b",
+        "#ae9c76"
+      ],
+      "cover": "./catalog/previews/parallax-16-kitchen/cover.webp",
+      "spread": "./catalog/previews/parallax-16-kitchen/spread.webp",
+      "feature": "./catalog/previews/parallax-16-kitchen/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-16-kitchen/01.webp",
+        "./catalog/previews/parallax-16-kitchen/02.webp",
+        "./catalog/previews/parallax-16-kitchen/03.webp",
+        "./catalog/previews/parallax-16-kitchen/04.webp",
+        "./catalog/previews/parallax-16-kitchen/05.webp"
+      ],
+      "pack": "./catalog/parallax/16-kitchen/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-17-riso",
+      "name": "Off Register",
+      "collectionId": "parallax-17-riso",
+      "collection": "Parallax Field Editions · Risograph registration / graphic zine",
+      "description": "Maximal graphic zine with misregistered ink fields, poster type, irregular cutouts, halftone accents and wide tilted photo sheets.",
+      "era": "",
+      "aliases": [
+        "Risograph registration / graphic zine",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "risograph",
+        "registration",
+        "graphic",
+        "zine"
+      ],
+      "styles": [
+        "Risograph registration / graphic zine",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Risograph registration / graphic zine"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#f3e3ca",
+        "#254e8b",
+        "#d85d55",
+        "#eac085",
+        "#8094ac"
+      ],
+      "cover": "./catalog/previews/parallax-17-riso/cover.webp",
+      "spread": "./catalog/previews/parallax-17-riso/spread.webp",
+      "feature": "./catalog/previews/parallax-17-riso/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-17-riso/01.webp",
+        "./catalog/previews/parallax-17-riso/02.webp",
+        "./catalog/previews/parallax-17-riso/03.webp",
+        "./catalog/previews/parallax-17-riso/04.webp",
+        "./catalog/previews/parallax-17-riso/05.webp"
+      ],
+      "pack": "./catalog/parallax/17-riso/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-18-atelier",
+      "name": "The Pattern Room",
+      "collectionId": "parallax-18-atelier",
+      "collection": "Parallax Field Editions · Dressmaking pattern / atelier lookbook",
+      "description": "A tactile lookbook shaped by dressmaking paper: grainlines, notch details, pattern curves, swatch frames, cloth tape and fine editorial typography.",
+      "era": "",
+      "aliases": [
+        "Dressmaking pattern / atelier lookbook",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "dressmaking",
+        "pattern",
+        "atelier",
+        "lookbook"
+      ],
+      "styles": [
+        "Dressmaking pattern / atelier lookbook",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Dressmaking pattern / atelier lookbook"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e9dfcd",
+        "#433945",
+        "#8d5962",
+        "#d3c5b2",
+        "#a19289"
+      ],
+      "cover": "./catalog/previews/parallax-18-atelier/cover.webp",
+      "spread": "./catalog/previews/parallax-18-atelier/spread.webp",
+      "feature": "./catalog/previews/parallax-18-atelier/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-18-atelier/01.webp",
+        "./catalog/previews/parallax-18-atelier/02.webp",
+        "./catalog/previews/parallax-18-atelier/03.webp",
+        "./catalog/previews/parallax-18-atelier/04.webp",
+        "./catalog/previews/parallax-18-atelier/05.webp"
+      ],
+      "pack": "./catalog/parallax/18-atelier/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-19-desktop",
+      "name": "The Memory Desktop",
+      "collectionId": "parallax-19-desktop",
+      "collection": "Parallax Field Editions · Desktop windows / digital memory archive",
+      "description": "A layered, original desktop nostalgia system: overlapping image-viewer windows, spectral metal, a memory dock, file chips and pixel-cursor punctuation.",
+      "era": "",
+      "aliases": [
+        "Desktop windows / digital memory archive",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "desktop",
+        "windows",
+        "digital",
+        "memory",
+        "archive"
+      ],
+      "styles": [
+        "Desktop windows / digital memory archive",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Desktop windows / digital memory archive"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 6,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#dfe8e7",
+        "#304d56",
+        "#5d939e",
+        "#bad1d1",
+        "#8caeb2"
+      ],
+      "cover": "./catalog/previews/parallax-19-desktop/cover.webp",
+      "spread": "./catalog/previews/parallax-19-desktop/spread.webp",
+      "feature": "./catalog/previews/parallax-19-desktop/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-19-desktop/01.webp",
+        "./catalog/previews/parallax-19-desktop/02.webp",
+        "./catalog/previews/parallax-19-desktop/03.webp",
+        "./catalog/previews/parallax-19-desktop/04.webp",
+        "./catalog/previews/parallax-19-desktop/05.webp"
+      ],
+      "pack": "./catalog/parallax/19-desktop/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    },
+    {
+      "id": "parallax-20-field",
+      "name": "The Unmapped Hours",
+      "collectionId": "parallax-20-field",
+      "collection": "Parallax Field Editions · Topography / field expedition",
+      "description": "An expedition notebook drawn across a single panorama, with detailed contour lines, survey markers, mounted detail prints, folded map papers and a route that never breaks.",
+      "era": "",
+      "aliases": [
+        "Topography / field expedition",
+        "Parallax Field Editions"
+      ],
+      "tags": [
+        "everyday",
+        "panorama",
+        "parallax",
+        "topography",
+        "field",
+        "expedition"
+      ],
+      "styles": [
+        "Topography / field expedition",
+        "Parallax Field Editions"
+      ],
+      "moods": [],
+      "occasions": [
+        "Topography / field expedition"
+      ],
+      "mechanics": [
+        "Five-slide panorama",
+        "Continuous photo crop",
+        "Editable text",
+        "Layered vector artwork"
+      ],
+      "slideCount": 5,
+      "slotCount": 7,
+      "width": 1080,
+      "height": 1350,
+      "output": "carousel",
+      "palette": [
+        "#e4e3ce",
+        "#2c514b",
+        "#c77744",
+        "#c2cdb3",
+        "#8b9d88"
+      ],
+      "cover": "./catalog/previews/parallax-20-field/cover.webp",
+      "spread": "./catalog/previews/parallax-20-field/spread.webp",
+      "feature": "./catalog/previews/parallax-20-field/feature.webp",
+      "slides": [
+        "./catalog/previews/parallax-20-field/01.webp",
+        "./catalog/previews/parallax-20-field/02.webp",
+        "./catalog/previews/parallax-20-field/03.webp",
+        "./catalog/previews/parallax-20-field/04.webp",
+        "./catalog/previews/parallax-20-field/05.webp"
+      ],
+      "pack": "./catalog/parallax/20-field/pack.json",
+      "songs": [],
+      "featured": false,
+      "curation": null
+    }
+  ],
+  "collections": [
+    {
+      "id": "atelier-01-a-brighter-chapter",
+      "name": "Travel scrapbook",
+      "kind": "everyday",
+      "aliases": [
+        "A Brighter Chapter"
+      ],
+      "description": "Rag-paper layers, discontinuous torn windows, architectural ephemera and a seam-crossing coastal story.",
+      "songs": "./catalog/atelier/01-a-brighter-chapter/songs.json"
+    },
+    {
+      "id": "atelier-02-moments-forever",
+      "name": "Analog film",
+      "kind": "everyday",
+      "aliases": [
+        "Moments Forever"
+      ],
+      "description": "Ascending strips of distressed negative film, tiny frame codes, adhesive tabs and an archive-card ending.",
+      "songs": "./catalog/atelier/02-moments-forever/songs.json"
+    },
+    {
+      "id": "atelier-03-the-daily-pause",
+      "name": "Editorial newspaper",
+      "kind": "everyday",
+      "aliases": [
+        "The Daily Pause"
+      ],
+      "description": "A tactile newspaper spread with live headlines, real typeset columns, unequal photo wells and quiet registration marks.",
+      "songs": "./catalog/atelier/03-the-daily-pause/songs.json"
+    },
+    {
+      "id": "atelier-04-coastal-notes",
+      "name": "Coastal scrapbook",
+      "kind": "everyday",
+      "aliases": [
+        "Coastal Notes"
+      ],
+      "description": "A layered coastal journal with asymmetrical torn photo fields, handwritten observations and a narrow arch insert.",
+      "songs": "./catalog/atelier/04-coastal-notes/songs.json"
+    },
+    {
+      "id": "atelier-05-after-hours",
+      "name": "Night photography",
+      "kind": "everyday",
+      "aliases": [
+        "After Hours"
+      ],
+      "description": "A dark analog archive with gilt rules, battered film edges, high-contrast city windows and small proof prints.",
+      "songs": "./catalog/atelier/05-after-hours/songs.json"
+    },
+    {
+      "id": "atelier-06-far-from-home",
+      "name": "Travel ephemera",
+      "kind": "everyday",
+      "aliases": [
+        "Far From Home"
+      ],
+      "description": "A postcard route assembled from annotated maps, stamps, departure tickets and a torn panoramic letter.",
+      "songs": "./catalog/atelier/06-far-from-home/songs.json"
+    },
+    {
+      "id": "atelier-07-slow-sunday",
+      "name": "Monochrome instant",
+      "kind": "everyday",
+      "aliases": [
+        "Slow Sunday"
+      ],
+      "description": "Oversized portraits interrupted by instant prints, soft rag paper, a small ticket and handwritten Sunday notes.",
+      "songs": "./catalog/atelier/07-slow-sunday/songs.json"
+    },
+    {
+      "id": "atelier-08-tokyo-diaries",
+      "name": "City scrapbook",
+      "kind": "everyday",
+      "aliases": [
+        "Tokyo Diaries"
+      ],
+      "description": "Blossom engravings, map fragments, softly pink ticket stock and overlapping urban image windows.",
+      "songs": "./catalog/atelier/08-tokyo-diaries/songs.json"
+    },
+    {
+      "id": "atelier-09-love-looks-good",
+      "name": "Wedding analog",
+      "kind": "everyday",
+      "aliases": [
+        "Love Looks Good"
+      ],
+      "description": "A sweeping diagonal film ribbon, gentle album paper, soft botanical marks and an intimate closing portrait.",
+      "songs": "./catalog/atelier/09-love-looks-good/songs.json"
+    },
+    {
+      "id": "atelier-10-into-the-wild",
+      "name": "Nature journal",
+      "kind": "everyday",
+      "aliases": [
+        "Into the Wild"
+      ],
+      "description": "A wide torn landscape, inset trail photographs and detailed pressed-botanical engravings on a field-journal surface.",
+      "songs": "./catalog/atelier/10-into-the-wild/songs.json"
+    },
+    {
+      "id": "atelier-11-a-collection-of-good-days",
+      "name": "Green memory archive",
+      "kind": "everyday",
+      "aliases": [
+        "A Collection of Good Days"
+      ],
+      "description": "Deep green book cloth, thin worn gold borders, wire eyelets and overlapping memory prints joined by a loose cotton thread.",
+      "songs": "./catalog/atelier/11-a-collection-of-good-days/songs.json"
+    },
+    {
+      "id": "atelier-12-soundtrack",
+      "name": "Music editorial",
+      "kind": "everyday",
+      "aliases": [
+        "Soundtrack"
+      ],
+      "description": "Large grooved vinyl objects, independent label-photo apertures, torn album sleeves and intimate liner-note typography.",
+      "songs": "./catalog/atelier/12-soundtrack/songs.json"
+    },
+    {
+      "id": "atelier-13-good-food",
+      "name": "Food journal",
+      "kind": "everyday",
+      "aliases": [
+        "Good Food"
+      ],
+      "description": "A café-table collage with receipts, gingham scraps, stamped paper, a food-photo essay and an intimate menu-card title.",
+      "songs": "./catalog/atelier/13-good-food/songs.json"
+    },
+    {
+      "id": "atelier-14-places-and-people",
+      "name": "Architecture editorial",
+      "kind": "everyday",
+      "aliases": [
+        "Places and People"
+      ],
+      "description": "Arches, elliptical windows, architectural drawings and warm plaster-coloured paper form a multi-scale editorial sequence.",
+      "songs": "./catalog/atelier/14-places-and-people/songs.json"
+    },
+    {
+      "id": "atelier-15-memories-exe",
+      "name": "Digital nostalgia",
+      "kind": "everyday",
+      "aliases": [
+        "Memories.exe"
+      ],
+      "description": "A layered generic desktop with bevelled image windows, editable filename bars, selection marks and an archive dialog.",
+      "songs": "./catalog/atelier/15-memories-exe/songs.json"
+    },
+    {
+      "id": "atelier-16-contact-24",
+      "name": "Analog proof sheet",
+      "kind": "everyday",
+      "aliases": [
+        "Contact 24"
+      ],
+      "description": "A contact sheet with twelve seam-aware frames, negative markings, grease-pencil selections and live archive notes.",
+      "songs": "./catalog/atelier/16-contact-24/songs.json"
+    },
+    {
+      "id": "atelier-17-just-here-now",
+      "name": "Botanical journal",
+      "kind": "everyday",
+      "aliases": [
+        "Just Here Now"
+      ],
+      "description": "A naturalist journal with fine botanical illustrations, paper labels, pinned landscape prints and quiet typographic pauses.",
+      "songs": "./catalog/atelier/17-just-here-now/songs.json"
+    },
+    {
+      "id": "atelier-18-departures",
+      "name": "Passport journal",
+      "kind": "everyday",
+      "aliases": [
+        "Departures"
+      ],
+      "description": "Worn passport pages, dense cancellation marks, boarding stubs, a seam-crossing city image and a small aircraft illustration.",
+      "songs": "./catalog/atelier/18-departures/songs.json"
+    },
+    {
+      "id": "atelier-19-the-bigger-picture",
+      "name": "Newsprint montage",
+      "kind": "everyday",
+      "aliases": [
+        "The Bigger Picture"
+      ],
+      "description": "A dense photographic broadsheet with a two-part live masthead, misaligned clipping edges and short readable newspaper columns.",
+      "songs": "./catalog/atelier/19-the-bigger-picture/songs.json"
+    },
+    {
+      "id": "atelier-20-last-light",
+      "name": "Cinematic landscape",
+      "kind": "everyday",
+      "aliases": [
+        "Last Light"
+      ],
+      "description": "One continuous sunset scene with independent outline-framed details, camera markings and a removable torn-paper note.",
+      "songs": "./catalog/atelier/20-last-light/songs.json"
+    },
+    {
+      "id": "panorama-01-atlas",
+      "name": "Panorama Atelier · Travel",
+      "kind": "everyday",
+      "aliases": [
+        "Atlas of Elsewhere",
+        "Travel",
+        "Panorama Atelier"
+      ],
+      "description": "A richly layered travel desk: panoramic postcards, deckled photographs, cartographic lines and collected ephemera.",
+      "songs": "./catalog/panorama-atelier/01-atlas/songs.json"
+    },
+    {
+      "id": "panorama-02-contact",
+      "name": "Panorama Atelier · Analog",
+      "kind": "everyday",
+      "aliases": [
+        "Contact / 400",
+        "Analog",
+        "Panorama Atelier"
+      ],
+      "description": "A continuous photographic proof roll with authentic-looking perforations, exposure marks, proof thumbnails and grease-pencil edits.",
+      "songs": "./catalog/panorama-atelier/02-contact/songs.json"
+    },
+    {
+      "id": "panorama-03-ether",
+      "name": "Panorama Atelier · Editorial",
+      "kind": "everyday",
+      "aliases": [
+        "Ether / Editorial",
+        "Editorial",
+        "Panorama Atelier"
+      ],
+      "description": "A fashion monograph with expansive serif headlines, asymmetric photographic spreads, art-direction notes and intimate inset details.",
+      "songs": "./catalog/panorama-atelier/03-ether/songs.json"
+    },
+    {
+      "id": "panorama-04-terrain",
+      "name": "Panorama Atelier · Nature",
+      "kind": "everyday",
+      "aliases": [
+        "Terrain / Field Study",
+        "Nature",
+        "Panorama Atelier"
+      ],
+      "description": "An expedition notebook layered with contour drawings, specimen etchings, ruled field cards and mixed-aspect landscape photography.",
+      "songs": "./catalog/panorama-atelier/04-terrain/songs.json"
+    },
+    {
+      "id": "panorama-05-after-hours",
+      "name": "Panorama Atelier · Digital",
+      "kind": "everyday",
+      "aliases": [
+        "After Hours",
+        "Digital",
+        "Panorama Atelier"
+      ],
+      "description": "A richly layered night-out timeline mixing camcorder overlays, chrome playback windows, a continuous waveform and flash-photo inserts.",
+      "songs": "./catalog/panorama-atelier/05-after-hours/songs.json"
+    },
+    {
+      "id": "panorama-06-love-letter",
+      "name": "Panorama Atelier · Wedding",
+      "kind": "everyday",
+      "aliases": [
+        "Love, in the Margins",
+        "Wedding",
+        "Panorama Atelier"
+      ],
+      "description": "A romantic stationery panorama with deckle-edged photographs, fine lace, envelope folds, a wax-like seal and handwritten keepsakes.",
+      "songs": "./catalog/panorama-atelier/06-love-letter/songs.json"
+    },
+    {
+      "id": "panorama-07-tideline",
+      "name": "Panorama Atelier · Travel",
+      "kind": "everyday",
+      "aliases": [
+        "Tideline / Blue Summer",
+        "Travel",
+        "Panorama Atelier"
+      ],
+      "description": "A sun-soaked coastal journal with cobalt stripes, postcard stamps, wavy photo edges, cheerful stationery and a continuous maritime route.",
+      "songs": "./catalog/panorama-atelier/07-tideline/songs.json"
+    },
+    {
+      "id": "panorama-08-built-form",
+      "name": "Panorama Atelier · Architecture",
+      "kind": "everyday",
+      "aliases": [
+        "Built Form",
+        "Architecture",
+        "Panorama Atelier"
+      ],
+      "description": "A tactile architecture monograph with measured elevations, dimension strings, material swatches and sharply choreographed panoramic photography.",
+      "songs": "./catalog/panorama-atelier/08-built-form/songs.json"
+    },
+    {
+      "id": "panorama-09-rewind",
+      "name": "Panorama Atelier · Recap",
+      "kind": "everyday",
+      "aliases": [
+        "Rewind / This Year",
+        "Recap",
+        "Panorama Atelier"
+      ],
+      "description": "A calendar-meets-film diary with a continuous roll, overlapping date cards, instant prints, proof frames and handwritten memory labels.",
+      "songs": "./catalog/panorama-atelier/09-rewind/songs.json"
+    },
+    {
+      "id": "panorama-10-paper-noise",
+      "name": "Panorama Atelier · Zine",
+      "kind": "everyday",
+      "aliases": [
+        "Paper Noise",
+        "Zine",
+        "Panorama Atelier"
+      ],
+      "description": "A dense independent zine built from xerox-style paper, acid-green typography, torn windows, marker annotations and paste-up photography.",
+      "songs": "./catalog/panorama-atelier/10-paper-noise/songs.json"
+    },
+    {
+      "id": "panorama-11-departure",
+      "name": "Panorama Atelier · Travel",
+      "kind": "everyday",
+      "aliases": [
+        "Departure / Window Seat",
+        "Travel",
+        "Panorama Atelier"
+      ],
+      "description": "A travel panorama seen through five sculpted aircraft-window frames, with one continuous horizon beneath, boarding-pass ephemera and cabin details.",
+      "songs": "./catalog/panorama-atelier/11-departure/songs.json"
+    },
+    {
+      "id": "panorama-12-object-index",
+      "name": "Panorama Atelier · Brand",
+      "kind": "everyday",
+      "aliases": [
+        "Object Index",
+        "Brand",
+        "Panorama Atelier"
+      ],
+      "description": "A richly art-directed product journal: oversized product plates, circular detail apertures, packaging dielines, chromatic swatches and tilted stock labels.",
+      "songs": "./catalog/panorama-atelier/12-object-index/songs.json"
+    },
+    {
+      "id": "panorama-13-rally",
+      "name": "Panorama Atelier · Sport",
+      "kind": "everyday",
+      "aliases": [
+        "Rally / Motion Studies",
+        "Sport",
+        "Panorama Atelier"
+      ],
+      "description": "A high-energy automotive and sport feature using panoramic motion frames, drafting ticks, race-route diagrams, technical labels and giant racing numerals.",
+      "songs": "./catalog/panorama-atelier/13-rally/songs.json"
+    },
+    {
+      "id": "panorama-14-supper-club",
+      "name": "Panorama Atelier · Food",
+      "kind": "everyday",
+      "aliases": [
+        "Supper Club",
+        "Food",
+        "Panorama Atelier"
+      ],
+      "description": "A richly layered dining journal with gingham linen, recipe fragments, menu cards, receipt typography, food photographs and hand-drawn tableware.",
+      "songs": "./catalog/panorama-atelier/14-supper-club/songs.json"
+    },
+    {
+      "id": "panorama-15-petal-press",
+      "name": "Panorama Atelier · Nature",
+      "kind": "everyday",
+      "aliases": [
+        "Petal Press",
+        "Nature",
+        "Panorama Atelier"
+      ],
+      "description": "A pressed-flower folio with engraved botanical illustrations, translucent-paper impressions, specimen labels, stitched bindings and gently overlapping photographs.",
+      "songs": "./catalog/panorama-atelier/15-petal-press/songs.json"
+    },
+    {
+      "id": "panorama-16-chrome-notes",
+      "name": "Panorama Atelier · Music",
+      "kind": "everyday",
+      "aliases": [
+        "Chrome / Liner Notes",
+        "Music",
+        "Panorama Atelier"
+      ],
+      "description": "A tactile music release journal combining a large iridescent disc, photo sleeves, concert panoramas, track-list typography and chrome interface details.",
+      "songs": "./catalog/panorama-atelier/16-chrome-notes/songs.json"
+    },
+    {
+      "id": "panorama-17-ordinary-archive",
+      "name": "Panorama Atelier · Scrapbook",
+      "kind": "everyday",
+      "aliases": [
+        "The Ordinary Archive",
+        "Scrapbook",
+        "Panorama Atelier"
+      ],
+      "description": "An open-book memory archive with deckled folios, library cards, index tabs, photographic mounts and margin annotations.",
+      "songs": "./catalog/panorama-atelier/17-ordinary-archive/songs.json"
+    },
+    {
+      "id": "panorama-18-riso-club",
+      "name": "Panorama Atelier · Art",
+      "kind": "everyday",
+      "aliases": [
+        "Riso Club",
+        "Art",
+        "Panorama Atelier"
+      ],
+      "description": "A vivid independent-print panorama with misregistered colour shapes, organic photo masks, halftone dots, hand-cut stock and offset editorial typography.",
+      "songs": "./catalog/panorama-atelier/18-riso-club/songs.json"
+    },
+    {
+      "id": "panorama-19-summit",
+      "name": "Panorama Atelier · Nature",
+      "kind": "everyday",
+      "aliases": [
+        "Summit / Beyond the Line",
+        "Nature",
+        "Panorama Atelier"
+      ],
+      "description": "A mountain expedition panorama with engraved contours, elevation profiles, survey marks, field patches and dramatic wide landscape windows.",
+      "songs": "./catalog/panorama-atelier/19-summit/songs.json"
+    },
+    {
+      "id": "panorama-20-room-service",
+      "name": "Panorama Atelier · Lifestyle",
+      "kind": "everyday",
+      "aliases": [
+        "Room Service",
+        "Lifestyle",
+        "Panorama Atelier"
+      ],
+      "description": "A richly layered boutique-stay editorial with arched photographic apertures, room-number plaques, engraved key motifs, luggage tags and a quiet panoramic sequence.",
+      "songs": "./catalog/panorama-atelier/20-room-service/songs.json"
+    },
+    {
+      "id": "parallax-01-hotel",
+      "name": "Parallax Field Editions · Hotel stationery / coastal scrapbook",
+      "kind": "everyday",
+      "aliases": [
+        "The Sunroom Register",
+        "Hotel stationery / coastal scrapbook",
+        "Parallax Field Editions"
+      ],
+      "description": "A long sun-faded holiday spread: oversized torn panoramas, room-key ephemera, citrus engravings and overlapping postage prints.",
+      "songs": "./catalog/parallax/01-hotel/songs.json"
+    },
+    {
+      "id": "parallax-02-linen",
+      "name": "Parallax Field Editions · Stitched linen / keepsake archive",
+      "kind": "everyday",
+      "aliases": [
+        "The Keepsake Room",
+        "Stitched linen / keepsake archive",
+        "Parallax Field Editions"
+      ],
+      "description": "Softly layered memory keeping with stitched cloth, an oval portrait mount, scalloped paper and a ribbon travelling between images.",
+      "songs": "./catalog/parallax/02-linen/songs.json"
+    },
+    {
+      "id": "parallax-03-garden",
+      "name": "Parallax Field Editions · Botanical engraving / garden almanac",
+      "kind": "everyday",
+      "aliases": [
+        "The Glasshouse Almanac",
+        "Botanical engraving / garden almanac",
+        "Parallax Field Editions"
+      ],
+      "description": "A specimen cabinet made into a continuous carousel: engraved botanical stems, archways, library labels and overlapping oval studies.",
+      "songs": "./catalog/parallax/03-garden/songs.json"
+    },
+    {
+      "id": "parallax-04-stereo",
+      "name": "Parallax Field Editions · Record liner notes / chrome disc",
+      "kind": "everyday",
+      "aliases": [
+        "A Side / B Side",
+        "Record liner notes / chrome disc",
+        "Parallax Field Editions"
+      ],
+      "description": "A late-night record sleeve stretched into a five-panel liner: spectral chrome, oscillating waveforms, jewel-case inserts and analogue indexing.",
+      "songs": "./catalog/parallax/04-stereo/songs.json"
+    },
+    {
+      "id": "parallax-05-tide",
+      "name": "Parallax Field Editions · Bathymetric contours / marine journal",
+      "kind": "everyday",
+      "aliases": [
+        "Low Tide Journal",
+        "Bathymetric contours / marine journal",
+        "Parallax Field Editions"
+      ],
+      "description": "Two immense coastal windows are threaded with chart-like contours, porthole details, tidal notation and chartmaker ornament.",
+      "songs": "./catalog/parallax/05-tide/songs.json"
+    },
+    {
+      "id": "parallax-06-celestial",
+      "name": "Parallax Field Editions · Celestial atlas / night panorama",
+      "kind": "everyday",
+      "aliases": [
+        "Under the Same Sky",
+        "Celestial atlas / night panorama",
+        "Parallax Field Editions"
+      ],
+      "description": "An observatory notebook in midnight and warm metal: orbital grids, engraved compasswork and observatory windows, connected by a panoramic horizon.",
+      "songs": "./catalog/parallax/06-celestial/songs.json"
+    },
+    {
+      "id": "parallax-07-cyanotype",
+      "name": "Parallax Field Editions · Cyanotype / botanical specimen index",
+      "kind": "everyday",
+      "aliases": [
+        "Blueprints of Summer",
+        "Cyanotype / botanical specimen index",
+        "Parallax Field Editions"
+      ],
+      "description": "Specimen-book precision with deep-blue paper, pale plant engravings, exposed deckle borders, folio labels and continuous photographic plates.",
+      "songs": "./catalog/parallax/07-cyanotype/songs.json"
+    },
+    {
+      "id": "parallax-08-transit",
+      "name": "Parallax Field Editions · Railway ticket / nocturnal travel",
+      "kind": "everyday",
+      "aliases": [
+        "Next Stop, Elsewhere",
+        "Railway ticket / nocturnal travel",
+        "Parallax Field Editions"
+      ],
+      "description": "A moving carriage of photographs, connected by route diagrams, fine perforations, railway-ticket photo holders and destination-board typography.",
+      "songs": "./catalog/parallax/08-transit/songs.json"
+    },
+    {
+      "id": "parallax-09-camcorder",
+      "name": "Parallax Field Editions · Camcorder OSD / after-hours diary",
+      "kind": "everyday",
+      "aliases": [
+        "No Signal, Just Us",
+        "Camcorder OSD / after-hours diary",
+        "Parallax Field Editions"
+      ],
+      "description": "An immersive all-photo panorama with hand-held tape fragments, fine scanlines, focus brackets, timecode rails and a warm analogue capture language.",
+      "songs": "./catalog/parallax/09-camcorder/songs.json"
+    },
+    {
+      "id": "parallax-10-newspaper",
+      "name": "Parallax Field Editions · Newspaper supplement / personal editorial",
+      "kind": "everyday",
+      "aliases": [
+        "The Everyday Observer",
+        "Newspaper supplement / personal editorial",
+        "Parallax Field Editions"
+      ],
+      "description": "Photo-led weekend journalism: masthead rules, offset halftone punctuation, inset press photographs, annotation columns and an oversized picture-led spread.",
+      "songs": "./catalog/parallax/10-newspaper/songs.json"
+    },
+    {
+      "id": "parallax-11-postal",
+      "name": "Parallax Field Editions · Postal ephemera / travel scrapbook",
+      "kind": "everyday",
+      "aliases": [
+        "Postmarked Elsewhere",
+        "Postal ephemera / travel scrapbook",
+        "Parallax Field Editions"
+      ],
+      "description": "A travelling pile of full-width photographs, cancelled postage prints, vellum envelopes, deckle paper and adhesive strips. Every swipe reveals another piece of mail.",
+      "songs": "./catalog/parallax/11-postal/songs.json"
+    },
+    {
+      "id": "parallax-12-rally",
+      "name": "Parallax Field Editions · Rally telemetry / automotive editorial",
+      "kind": "everyday",
+      "aliases": [
+        "The Motion Register",
+        "Rally telemetry / automotive editorial",
+        "Parallax Field Editions"
+      ],
+      "description": "Motorsport editorial with chamfered panoramic photography, circuit-like continuity, mechanical calibration and inset proof frames. All instrument values are decorative.",
+      "songs": "./catalog/parallax/12-rally/songs.json"
+    },
+    {
+      "id": "parallax-13-prism",
+      "name": "Parallax Field Editions · Prismatic transparency / sculptural gallery",
+      "kind": "everyday",
+      "aliases": [
+        "The Afterglow Study",
+        "Prismatic transparency / sculptural gallery",
+        "Parallax Field Editions"
+      ],
+      "description": "A sculptural gallery of translucent borders, oval picture windows and looping spectral ribbons. The visual flow comes from intersecting curves, not a repeated grid.",
+      "songs": "./catalog/parallax/13-prism/songs.json"
+    },
+    {
+      "id": "parallax-14-film",
+      "name": "Parallax Field Editions · 35mm proof / city diary",
+      "kind": "everyday",
+      "aliases": [
+        "Proof of Being Here",
+        "35mm proof / city diary",
+        "Parallax Field Editions"
+      ],
+      "description": "A true horizontal negative strip threaded across the panorama with amber edge codes, grease-pencil selection marks and irregularly stacked proof prints.",
+      "songs": "./catalog/parallax/14-film/songs.json"
+    },
+    {
+      "id": "parallax-15-architecture",
+      "name": "Parallax Field Editions · Architectural drawing / concrete editorial",
+      "kind": "everyday",
+      "aliases": [
+        "The Spatial Index",
+        "Architectural drawing / concrete editorial",
+        "Parallax Field Editions"
+      ],
+      "description": "Gallery-scale architecture with fine construction grids, dimension witnesses, structural axonometrics and asymmetrical mounted views. Notes are illustrative, not engineering plans.",
+      "songs": "./catalog/parallax/15-architecture/songs.json"
+    },
+    {
+      "id": "parallax-16-kitchen",
+      "name": "Parallax Field Editions · Recipe cards / market journal",
+      "kind": "everyday",
+      "aliases": [
+        "The Market Notebook",
+        "Recipe cards / market journal",
+        "Parallax Field Editions"
+      ],
+      "description": "A warm culinary scrapbook with checked table linen, culinary-note cards, stamped market prints, herb engravings and panoramic table stories.",
+      "songs": "./catalog/parallax/16-kitchen/songs.json"
+    },
+    {
+      "id": "parallax-17-riso",
+      "name": "Parallax Field Editions · Risograph registration / graphic zine",
+      "kind": "everyday",
+      "aliases": [
+        "Off Register",
+        "Risograph registration / graphic zine",
+        "Parallax Field Editions"
+      ],
+      "description": "Maximal graphic zine with misregistered ink fields, poster type, irregular cutouts, halftone accents and wide tilted photo sheets.",
+      "songs": "./catalog/parallax/17-riso/songs.json"
+    },
+    {
+      "id": "parallax-18-atelier",
+      "name": "Parallax Field Editions · Dressmaking pattern / atelier lookbook",
+      "kind": "everyday",
+      "aliases": [
+        "The Pattern Room",
+        "Dressmaking pattern / atelier lookbook",
+        "Parallax Field Editions"
+      ],
+      "description": "A tactile lookbook shaped by dressmaking paper: grainlines, notch details, pattern curves, swatch frames, cloth tape and fine editorial typography.",
+      "songs": "./catalog/parallax/18-atelier/songs.json"
+    },
+    {
+      "id": "parallax-19-desktop",
+      "name": "Parallax Field Editions · Desktop windows / digital memory archive",
+      "kind": "everyday",
+      "aliases": [
+        "The Memory Desktop",
+        "Desktop windows / digital memory archive",
+        "Parallax Field Editions"
+      ],
+      "description": "A layered, original desktop nostalgia system: overlapping image-viewer windows, spectral metal, a memory dock, file chips and pixel-cursor punctuation.",
+      "songs": "./catalog/parallax/19-desktop/songs.json"
+    },
+    {
+      "id": "parallax-20-field",
+      "name": "Parallax Field Editions · Topography / field expedition",
+      "kind": "everyday",
+      "aliases": [
+        "The Unmapped Hours",
+        "Topography / field expedition",
+        "Parallax Field Editions"
+      ],
+      "description": "An expedition notebook drawn across a single panorama, with detailed contour lines, survey markers, mounted detail prints, folded map papers and a route that never breaks.",
+      "songs": "./catalog/parallax/20-field/songs.json"
+    }
+  ]
+}
