@@ -6,7 +6,7 @@ import { isPhotoSlot, isFilledSlot, photoSlots, templateRecipe } from './slots.j
 import { UNIT, uid, clone, designHeight, newPhoto, newText, newShape, baseNode, defaultGrade, resizeProject, duplicateSlide, removeSlide, moveSlide, validateProject } from './model.js';
 import { History, contains, corners, bounds, snapPosition, clamp } from './geometry.js';
 import { allProjectAssets, prepareResources, mediaLibrary, allProjectMedia, importMedia, blobURL, clearMediaCache, cancelProcessing } from './media.js';
-import { renderScene, sceneCanvas, visibleNodes, nodesForSlide, layoutText, textLines } from './render.js';
+import { renderScene, sceneCanvas, visibleNodes, nodesForSlide, layoutText, textLines, clearRenderCache } from './render.js';
 import { saveProject, probeStorage } from './storage.js';
 import { ASSETS } from './assets.js';
 import { GRADES } from './grading.js';
@@ -130,13 +130,14 @@ export class Editor {
         this.stage.addEventListener('dragleave', () => this.stage.classList.remove('drop-active'));
         this.stage.addEventListener('drop', e => { e.preventDefault(); this.stage.classList.remove('drop-active'); this.importFill = false; void this.receiveFiles(Array.from(e.dataTransfer?.files || [])); });
     }
+    pixelRatio() { return Math.min(this.mobile ? 1.5 : 2, devicePixelRatio || 1); }
     resize() {
         if (this.disposed)
             return;
         const rect = this.stage.getBoundingClientRect(), was = this.viewWidth > 0, widthChanged = Math.abs(rect.width - this.viewWidth) > 30;
         this.viewWidth = rect.width;
         this.viewHeight = rect.height;
-        const dpr = Math.min(2, devicePixelRatio || 1);
+        const dpr = this.pixelRatio();
         for (const c of [this.canvas, this.overlay]) {
             c.width = Math.max(1, Math.round(rect.width * dpr));
             c.height = Math.max(1, Math.round(rect.height * dpr));
@@ -159,7 +160,8 @@ export class Editor {
         const token = ++this.epoch;
         try {
             const left = -this.panX / this.scale, right = (this.viewWidth - this.panX) / this.scale;
-            const res = await prepareResources(visibleNodes(this.project, left - 100, right + 100, -this.panY / this.scale - 100, (this.viewHeight - this.panY) / this.scale + 100), { scale: this.scale * Math.min(devicePixelRatio, 2), before: this.before });
+            const margin = this.mobile ? 30 : 100;
+            const res = await prepareResources(visibleNodes(this.project, left - margin, right + margin, -this.panY / this.scale - margin, (this.viewHeight - this.panY) / this.scale + margin), { scale: this.scale * this.pixelRatio(), before: this.before });
             if (token !== this.epoch || this.disposed)
                 return;
             this.resources = res;
@@ -178,7 +180,7 @@ export class Editor {
     draw() {
         if (this.disposed)
             return;
-        const dpr = Math.min(2, devicePixelRatio || 1), ctx = this.canvas.getContext('2d');
+        const dpr = this.pixelRatio(), ctx = this.canvas.getContext('2d');
         renderScene(ctx, this.project, this.resources, { scale: this.scale * dpr, offsetX: this.panX * dpr, offsetY: this.panY * dpr });
         const ui = this.overlay.getContext('2d');
         ui.setTransform(dpr, 0, 0, dpr, 0, 0);
@@ -1231,5 +1233,5 @@ export class Editor {
         }
         dialog('Keep your story safe', el('div', {}, el('p', { class: 'notice', text: 'This project is not saved locally. Download an editable backup before leaving, or your edits will be lost.' }), button('Download editable backup', 'save', () => this.backup(), 'primary', 'full'), button('Keep editing', 'back', () => closeDialog(), 'secondary', 'full'), button('Leave without local saving', undefined, () => { closeDialog(); leave(); }, 'ghost', 'full')));
     }
-    destroy() { this.disposed = true; this.photoFlow.dispose(); window.removeEventListener('beforeunload', this.boundUnload); this.epoch++; clearTimeout(this.saveTimer); clearTimeout(this.resourceTimer); this.resizeObserver?.disconnect(); document.removeEventListener('keydown', this.boundKey); document.body.classList.remove('editing'); this.urls.forEach(URL.revokeObjectURL); this.urls.clear(); this.canvas.width = this.canvas.height = this.overlay.width = this.overlay.height = 1; this.resources.clear(); clearMediaCache(); }
+    destroy() { this.disposed = true; this.photoFlow.dispose(); window.removeEventListener('beforeunload', this.boundUnload); this.epoch++; clearTimeout(this.saveTimer); clearTimeout(this.resourceTimer); this.resizeObserver?.disconnect(); document.removeEventListener('keydown', this.boundKey); document.body.classList.remove('editing'); this.urls.forEach(URL.revokeObjectURL); this.urls.clear(); this.canvas.width = this.canvas.height = this.overlay.width = this.overlay.height = 1; this.resources.clear(); clearMediaCache(); clearRenderCache(); }
 }

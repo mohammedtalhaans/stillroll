@@ -172,12 +172,14 @@ const worker = new PixelWorker();
 export const cancelProcessing = () => worker.cancel();
 const cache = new Map();
 let cachedPixels = 0;
+const compactDevice = () => globalThis.matchMedia?.('(max-width: 959px)').matches ?? false;
+const mediaPixelBudget = () => compactDevice() ? 5000000 : 12000000;
 function keep(key, image) {
     const pixels = image.width * image.height;
     cachedPixels -= cache.get(key)?.pixels || 0;
     cache.set(key, { image, pixels });
     cachedPixels += pixels;
-    while (cachedPixels > 12000000 && cache.size > 1) {
+    while (cachedPixels > mediaPixelBudget() && cache.size > 1) {
         const k = cache.keys().next().value;
         cachedPixels -= cache.get(k).pixels;
         cache.delete(k);
@@ -189,7 +191,7 @@ async function rasterPhoto(n, exporting, scale, before, signal) {
     const m = await getMedia(n.assetId);
     const fitted = n.fit === 'fit' ? Math.min(n.w / m.width, n.h / m.height) : Math.max(n.w / m.width, n.h / m.height);
     const needed = Math.max(m.width, m.height) * fitted * scale * n.crop.zoom;
-    const maxEdge = exporting ? Math.min(8192, Math.max(768, Math.ceil(needed / 128) * 128)) : Math.min(1280, Math.max(640, Math.ceil(needed / 128) * 128));
+    const maxEdge = exporting ? Math.min(8192, Math.max(768, Math.ceil(needed / 128) * 128)) : Math.min(compactDevice() ? 960 : 1280, Math.max(compactDevice() ? 512 : 640, Math.ceil(needed / 128) * 128));
     const settings = before ? defaultGrade() : n.grade;
     const key = JSON.stringify([m.id, Math.ceil(maxEdge / 128) * 128, settings, n.cutout, n.videoStart || 0]);
     const existing = cache.get(key);
@@ -219,7 +221,7 @@ async function rasterPhoto(n, exporting, scale, before, signal) {
     }
     if (im instanceof HTMLVideoElement)
         await seekVideo(im, n.videoStart || 0);
-    const ratio = Math.min(1, maxEdge / Math.max(m.width, m.height), Math.sqrt((exporting ? 16000000 : 1800000) / (m.width * m.height)));
+    const ratio = Math.min(1, maxEdge / Math.max(m.width, m.height), Math.sqrt((exporting ? 16000000 : compactDevice() ? 1000000 : 1800000) / (m.width * m.height)));
     const c = document.createElement('canvas');
     c.width = Math.max(1, Math.round(m.width * ratio));
     c.height = Math.max(1, Math.round(m.height * ratio));
@@ -283,7 +285,8 @@ export async function prepareResources(nodes, options = {}) {
             const a = await getAsset(n.assetId);
             if (!a)
                 throw new Error('A creative element is missing. Import a compatible project or remove that layer.');
-            const edge = Math.min(2048, Math.max(256, Math.ceil(Math.max(n.w, n.h) * (options.scale || 1) / 128) * 128)), key = 'sticker:' + a.id + ':' + edge;
+            const edgeCap = options.exporting ? 2048 : compactDevice() ? 768 : 1280;
+            const edge = Math.min(edgeCap, Math.max(256, Math.ceil(Math.max(n.w, n.h) * (options.scale || 1) / 128) * 128)), key = 'sticker:' + a.id + ':' + edge;
             let image = cache.get(key)?.image;
             if (!image) {
                 const temporary = a.blob ? blobURL(a.blob) : undefined;

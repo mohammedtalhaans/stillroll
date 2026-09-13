@@ -290,6 +290,10 @@ function drawLocalNode(ctx, n, res) {
 }
 /** Keep subpixel ink and mask edges anchored when a slide cuts across a layer. */
 function layerRaster(n, res, scale) {
+    // Movable layers redraw directly. Caching every intermediate drag position creates
+    // a stream of short-lived canvases and is especially expensive in mobile Safari.
+    if (!n.locked)
+        return;
     const image = res.get(n.id);
     if (image && !sourceIds.has(image))
         sourceIds.set(image, ++sourceSequence);
@@ -322,7 +326,8 @@ function layerRaster(n, res, scale) {
     const result = { canvas, left, top, pixels: canvas.width * canvas.height };
     layerCache.set(key, result);
     layerPixels += result.pixels;
-    while (layerPixels > 8000000 && layerCache.size > 1) {
+    const budget = globalThis.matchMedia?.('(max-width: 959px)').matches ? 3500000 : 8000000;
+    while (layerPixels > budget && layerCache.size > 1) {
         const first = layerCache.keys().next().value;
         layerPixels -= layerCache.get(first).pixels;
         layerCache.delete(first);
