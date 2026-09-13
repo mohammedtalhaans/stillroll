@@ -204,10 +204,27 @@ export function canShare(files) {
         return false;
     }
 }
+export function prefersNativeSave(files) {
+    try {
+        const touchDevice = navigator.maxTouchPoints > 0 || window.matchMedia?.('(pointer: coarse)').matches;
+        return touchDevice && canShare(files);
+    }
+    catch {
+        return false;
+    }
+}
 export async function shareFiles(files) {
     if (!canShare(files))
         throw new Error('File sharing is unavailable here. Save the images individually instead.');
     await navigator.share({ files: nativeFiles(files) });
+}
+export async function saveOutput(file) {
+    if (prefersNativeSave([file])) {
+        await shareFiles([file]);
+        return 'shared';
+    }
+    download(file.blob, file.name);
+    return 'downloaded';
 }
 export function videoMime() {
     if (typeof MediaRecorder === 'undefined' || !HTMLCanvasElement.prototype.captureStream)

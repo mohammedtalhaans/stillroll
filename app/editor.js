@@ -11,7 +11,7 @@ import { saveProject, probeStorage } from './storage.js';
 import { ASSETS } from './assets.js';
 import { GRADES } from './grading.js';
 import { el, button, icon, field, numberField, colorField, select, range, dialog, closeDialog, toast, empty, sourceURL } from './ui.js';
-import { exportImages, portableProject, projectCredits, download, zipImages, canShare, shareFiles, exportVideo, videoMime, planningCalendar, slug } from './export.js';
+import { exportImages, portableProject, projectCredits, download, zipImages, canShare, shareFiles, prefersNativeSave, saveOutput, exportVideo, videoMime, planningCalendar, slug } from './export.js';
 export class Editor {
     root;
     onHome;
@@ -1134,13 +1134,20 @@ export class Editor {
         d.addEventListener('close', () => { controller?.abort(); cancelProcessing(); }, { once: true });
     }
     outputResults(body, files, d) {
-        const result = el('div', { class: 'export-results' }, el('div', { class: 'success-note' }, icon('check'), el('span', { text: `${files.length} ${files[0].blob.type.startsWith('video') ? 'video' : 'images'} ready. Choose where to save.` })));
+        const nativeSave = files.some(f => prefersNativeSave([f]));
+        const readyCopy = `${files.length} ${files[0].blob.type.startsWith('video') ? 'video' : 'images'} ready. ${nativeSave ? 'Tap Save to Photos, then choose Save Image or Save Video in the share sheet.' : 'Choose where to save.'}`;
+        const result = el('div', { class: 'export-results' }, el('div', { class: 'success-note' }, icon('check'), el('span', { text: readyCopy })));
         const reel = el('div', { class: 'export-reel' }), urls = [];
         for (const f of files) {
             const url = blobURL(f.blob);
             urls.push(url);
-            const video = f.blob.type.startsWith('video'), media = video ? el('video', { src: url, controls: true, playsinline: true, muted: true }) : el('img', { src: url, alt: 'Exported slide ' + (f.slide + 1) });
-            reel.append(el('div', { class: 'export-item' }, media, button('Save ' + (video ? 'video' : 'slide ' + (f.slide + 1)), 'download', () => download(f.blob, f.name), 'primary', 'full'), el('small', { class: 'muted', text: `${Math.round(f.blob.size / 1024)} KB` })));
+            const video = f.blob.type.startsWith('video'), mobileSave = prefersNativeSave([f]), media = video ? el('video', { src: url, controls: true, playsinline: true, muted: true }) : el('img', { src: url, alt: 'Exported slide ' + (f.slide + 1) });
+            const saveLabel = mobileSave ? `Save ${video ? 'video' : 'slide ' + (f.slide + 1)} to Photos` : `Save ${video ? 'video' : 'slide ' + (f.slide + 1)}`;
+            reel.append(el('div', { class: 'export-item' }, media, button(saveLabel, mobileSave ? 'share' : 'download', async () => {
+                if (mobileSave)
+                    toast(`Choose ${video ? 'Save Video' : 'Save Image'} in the share sheet.`);
+                await saveOutput(f);
+            }, 'primary', 'full'), el('small', { class: 'muted', text: `${Math.round(f.blob.size / 1024)} KB` })));
         }
         result.append(reel);
         if (canShare(files))
@@ -1156,7 +1163,7 @@ export class Editor {
             }, 'secondary', 'full'));
         if (files.length > 1)
             result.append(button('Download all as ZIP', 'folder', async () => { const zip = await zipImages(files, undefined, await projectCredits(this.project)); download(zip, slug(this.project.name) + '.zip'); }, 'secondary', 'full'));
-        result.append(button('Photo credits', 'info', async () => { const copy = await projectCredits(this.project); const area = el('textarea', { class: 'input', rows: 9, readonly: true, value: copy, 'aria-label': 'Photo credits to include when sharing' }); dialog('Credit where it’s due', el('div', {}, el('p', { class: 'hint', text: 'Credit CC BY sample photos when you share them, or replace them with your own. ZIPs include these credits.' }), area, button('Select credits for copying', 'copy', () => { area.focus(); area.select(); }, 'secondary', 'full'))); }, 'ghost', 'full'), el('p', { class: 'hint', text: 'Saving and sharing depend on your browser. A completed share sheet does not confirm that files reached Photos or Instagram.' }), button('Keep editing', 'back', () => closeDialog('overlay'), 'ghost', 'full'));
+        result.append(button('Photo credits', 'info', async () => { const copy = await projectCredits(this.project); const area = el('textarea', { class: 'input', rows: 9, readonly: true, value: copy, 'aria-label': 'Photo credits to include when sharing' }); dialog('Credit where it’s due', el('div', {}, el('p', { class: 'hint', text: 'Credit CC BY sample photos when you share them, or replace them with your own. ZIPs include these credits.' }), area, button('Select credits for copying', 'copy', () => { area.focus(); area.select(); }, 'secondary', 'full'))); }, 'ghost', 'full'), el('p', { class: 'hint', text: nativeSave ? 'The share sheet is required because mobile browsers cannot silently write to Photos. Confirm Save Image or Save Video before closing it.' : 'Saving and sharing depend on your browser. A completed share sheet does not confirm that files reached Photos or Instagram.' }), button('Keep editing', 'back', () => closeDialog('overlay'), 'ghost', 'full'));
         body.append(result);
         d.addEventListener('close', () => urls.forEach(URL.revokeObjectURL), { once: true });
     }
